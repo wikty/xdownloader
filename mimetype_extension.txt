@@ -1,0 +1,1264 @@
+.123,application/vnd.lotus-1-2-3,Lotus 1-2-3,http://www.iana.org/assignments/media-types/application/vnd.lotus-1-2-3
+.323,text/h323,,
+.3dm,x-world/x-3dmf,,
+.3dmf,x-world/x-3dmf,,
+.3dml,text/vnd.in3d.3dml,In3D - 3DML,http://www.iana.org/assignments/media-types/text/vnd.in3d.3dml
+.3g2,video/3gpp2,3GP2,http://en.wikipedia.org/wiki/3GP_and_3G2
+.3gp,video/3gpp,3GP,http://en.wikipedia.org/wiki/3GP_and_3G2
+.7z,application/x-7z-compressed,7-Zip,http://en.wikipedia.org/wiki/7-Zip
+.a,application/octet-stream,,
+.aab,application/x-authorware-bin,Adobe (Macropedia) Authorware - Binary File,http://en.wikipedia.org/wiki/Macromedia_Authorware
+.aac,audio/x-aac,Advanced Audio Coding (AAC),http://en.wikipedia.org/wiki/Advanced_Audio_Coding
+.aam,application/x-authorware-map,Adobe (Macropedia) Authorware - Map,http://en.wikipedia.org/wiki/Macromedia_Authorware
+.aas,application/x-authorware-seg,Adobe (Macropedia) Authorware - Segment File,http://en.wikipedia.org/wiki/Macromedia_Authorware
+.abc,text/vnd.abc,,
+.abw,application/x-abiword,AbiWord,http://en.wikipedia.org/wiki/AbiWord
+.ac,application/pkix-attr-cert,Attribute Certificate,http://tools.ietf.org/html/rfc5877
+.acc,application/vnd.americandynamics.acc,Active Content Compression,http://www.iana.org/assignments/media-types/application/vnd.americandynamics.acc
+.ace,application/x-ace-compressed,Ace Archive,http://en.wikipedia.org/wiki/ACE_%28file_format%29
+.acgi,text/html,,
+.acu,application/vnd.acucobol,ACU Cobol,http://www.iana.org/assignments/media-types/application/vnd-acucobol
+.acx,application/internet-property-stream,,
+.adp,audio/adpcm,Adaptive differential pulse-code modulation,http://en.wikipedia.org/wiki/ADPCM
+.aep,application/vnd.audiograph,Audiograph,http://www.iana.org/assignments/media-types/application/vnd.audiograph
+.afl,video/animaflex,,
+.afp,application/vnd.ibm.modcap,MO:DCA-P,http://www.iana.org/assignments/media-types/application/vnd.ibm.modcap
+.ahead,application/vnd.ahead.space,Ahead AIR Application,http://www.iana.org/assignments/media-types/application/vnd.ahead.space
+.ai,application/postscript,PostScript,http://en.wikipedia.org/wiki/PostScript
+.aif,audio/aiff,,
+.aif,audio/x-aiff,Audio Interchange File Format,http://en.wikipedia.org/wiki/Audio_Interchange_File_Format
+.aifc,audio/aiff,,
+.aifc,audio/x-aiff,,
+.aiff,audio/aiff,,
+.aiff,audio/x-aiff,,
+.aim,application/x-aim,,
+.aip,text/x-audiosoft-intra,,
+.air,application/vnd.adobe.air-application-installer-package+zip,Adobe AIR Application,http://help.adobe.com/en_US/air/build/air_buildingapps.pdf
+.ait,application/vnd.dvb.ait,Digital Video Broadcasting,http://www.iana.org/assignments/media-types/application/vnd.dvb.ait
+.ami,application/vnd.amiga.ami,AmigaDE,http://www.iana.org/assignments/media-types/application/vnd.amiga.ami
+.ani,application/x-navi-animation,,
+.aos,application/x-nokia-9000-communicator-add-on-software,,
+.apk,application/vnd.android.package-archive,Android Package Archive,http://en.wikipedia.org/wiki/APK_%28file_format%29
+.application,application/x-ms-application,Microsoft ClickOnce,http://en.wikipedia.org/wiki/ClickOnce
+.apr,application/vnd.lotus-approach,Lotus Approach,http://www.iana.org/assignments/media-types/application/vnd.lotus-approach
+.aps,application/mime,,
+.arc,application/octet-stream,,
+.arj,application/arj,,
+.arj,application/octet-stream,,
+.art,image/x-jg,,
+.asf,video/x-ms-asf,Microsoft Advanced Systems Format (ASF),http://en.wikipedia.org/wiki/Advanced_Systems_Format
+.asm,text/x-asm,,
+.aso,application/vnd.accpac.simply.aso,Simply Accounting,http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.aso
+.asp,text/asp,,
+.asr,video/x-ms-asf,,
+.asx,application/x-mplayer2,,
+.asx,video/x-ms-asf,,
+.asx,video/x-ms-asf-plugin,,
+.atc,application/vnd.acucorp,ACU Cobol,http://www.iana.org/assignments/media-types/application/vnd-acucobol
+.atom,application/atom+xml,Atom Syndication Format,http://tools.ietf.org/html/rfc4287
+.atomcat,application/atomcat+xml,Atom Publishing Protocol,http://www.rfc-editor.org/rfc/rfc5023.txt
+.atomsvc,application/atomsvc+xml,Atom Publishing Protocol Service Document,http://www.rfc-editor.org/rfc/rfc5023.txt
+.atx,application/vnd.antix.game-component,Antix Game Player,http://www.iana.org/assignments/media-types/application/vnd.antix.game-component
+.au,audio/basic,Sun Audio - Au file format,http://en.wikipedia.org/wiki/Sun_Audio
+.au,audio/x-au,,
+.avi,application/x-troff-msvideo,,
+.avi,video/avi,,
+.avi,video/msvideo,,
+.avi,video/x-msvideo,Audio Video Interleave (AVI),http://en.wikipedia.org/wiki/Audio_Video_Interleave
+.avs,video/avs-video,,
+.aw,application/applixware,Applixware,http://www.vistasource.com/en/apl.php
+.axs,application/olescript,,
+.azf,application/vnd.airzip.filesecure.azf,AirZip FileSECURE,http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azf
+.azs,application/vnd.airzip.filesecure.azs,AirZip FileSECURE,http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azs
+.azw,application/vnd.amazon.ebook,Amazon Kindle eBook format,https://kdp.amazon.com/self-publishing/help?topicId=A328FYMFAE7VNY
+.bas,text/plain,,
+.bcpio,application/x-bcpio,Binary CPIO Archive,http://en.wikipedia.org/wiki/Cpio
+.bdf,application/x-font-bdf,Glyph Bitmap Distribution Format,http://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format
+.bdm,application/vnd.syncml.dm+wbxml,SyncML - Device Management,http://www.iana.org/assignments/media-types/application/vnd.syncml.dm+wbxml
+.bed,application/vnd.realvnc.bed,RealVNC,http://www.iana.org/assignments/media-types/application/vnd.realvnc.bed
+.bh2,application/vnd.fujitsu.oasysprs,Fujitsu Oasys,http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysprs
+.bin,application/mac-binary,,
+.bin,application/macbinary,,
+.bin,application/octet-stream,Binary Data,
+.bin,application/x-binary,,
+.bin,application/x-macbinary,,
+.bm,image/bmp,,
+.bmi,application/vnd.bmi,BMI Drawing Data Interchange,http://www.iana.org/assignments/media-types/application/vnd.bmi
+.bmp,image/bmp,Bitmap Image File,http://en.wikipedia.org/wiki/BMP_file_format
+.bmp,image/x-windows-bmp,,
+.boo,application/book,,
+.book,application/book,,
+.box,application/vnd.previewsystems.box,Preview Systems ZipLock/VBox,http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box
+.boz,application/x-bzip2,,
+.bsh,application/x-bsh,,
+.btif,image/prs.btif,BTIF,http://www.iana.org/assignments/media-types/image/prs.btif
+.bz,application/x-bzip,Bzip Archive,http://en.wikipedia.org/wiki/Bzip
+.bz2,application/x-bzip2,Bzip2 Archive,http://en.wikipedia.org/wiki/Bzip
+.c,text/plain,,
+.c,text/x-c,C Source File,http://en.wikipedia.org/wiki/C_%28programming_language%29
+.c++,text/plain,,
+.c11amc,application/vnd.cluetrust.cartomobile-config,ClueTrust CartoMobile - Config,http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config
+.c11amz,application/vnd.cluetrust.cartomobile-config-pkg,ClueTrust CartoMobile - Config Package,http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config
+.c4g,application/vnd.clonk.c4group,Clonk Game,http://www.iana.org/assignments/media-types/application/vnd.clonk.c4group
+.cab,application/vnd.ms-cab-compressed,Microsoft Cabinet File,http://www.iana.org/assignments/media-types/application/vnd.ms-cab-compressed
+.car,application/vnd.curl.car,CURL Applet,http://www.iana.org/assignments/media-types/application/vnd.curl.car
+.cat,application/vnd.ms-pki.seccat,Microsoft Trust UI Provider - Security Catalog,http://www.iana.org/assignments/media-types/application/vnd.ms-pki.seccat
+.cat,application/vnd.ms-pkiseccat,,
+.cc,text/plain,,
+.cc,text/x-c,,
+.ccad,application/clariscad,,
+.cco,application/x-cocoa,,
+.ccxml,application/ccxml+xml,Voice Browser Call Control,http://www.w3.org/TR/ccxml/
+.cdbcmsg,application/vnd.contact.cmsg,CIM Database,http://www.iana.org/assignments/media-types/application/vnd.contact.cmsg
+.cdf,application/cdf,,
+.cdf,application/x-cdf,,
+.cdf,application/x-netcdf,,
+.cdkey,application/vnd.mediastation.cdkey,MediaRemote,http://www.iana.org/assignments/media-types/application/vnd.mediastation.cdkey
+.cdmia,application/cdmi-capability,Cloud Data Management Interface (CDMI) - Capability,http://www.rfc-editor.org/info/rfc6208
+.cdmic,application/cdmi-container,Cloud Data Management Interface (CDMI) - Contaimer,http://www.rfc-editor.org/info/rfc6209
+.cdmid,application/cdmi-domain,Cloud Data Management Interface (CDMI) - Domain,http://www.rfc-editor.org/info/rfc6210
+.cdmio,application/cdmi-object,Cloud Data Management Interface (CDMI) - Object,http://www.rfc-editor.org/info/rfc6211
+.cdmiq,application/cdmi-queue,Cloud Data Management Interface (CDMI) - Queue,http://www.rfc-editor.org/info/rfc6212
+.cdx,chemical/x-cdx,ChemDraw eXchange file,http://www.cambridgesoft.com/services/documentation/sdk/chemdraw/cdx/
+.cdxml,application/vnd.chemdraw+xml,CambridgeSoft Chem Draw,http://www.iana.org/assignments/media-types/application/vnd.chemdraw+xml
+.cdy,application/vnd.cinderella,Interactive Geometry Software Cinderella,http://www.iana.org/assignments/media-types/application/vnd.cinderella
+.cer,application/pkix-cert,Internet Public Key Infrastructure - Certificate,http://www.ietf.org/rfc/rfc2585.txt
+.cer,application/x-x509-ca-cert,,
+.cgm,image/cgm,Computer Graphics Metafile,http://en.wikipedia.org/wiki/Computer_Graphics_Metafile
+.cha,application/x-chat,,
+.chat,application/x-chat,pIRCh,http://en.wikipedia.org/wiki/PIRCH
+.chm,application/vnd.ms-htmlhelp,Microsoft Html Help File,http://www.iana.org/assignments/media-types/application/vnd.ms-htmlhelp
+.chrt,application/vnd.kde.kchart,KDE KOffice Office Suite - KChart,http://www.iana.org/assignments/media-types/application/vnd.kde.kchart
+.cif,chemical/x-cif,Crystallographic Interchange Format,http://www.iucr.org/resources/cif
+.cii,application/vnd.anser-web-certificate-issue-initiation,ANSER-WEB Terminal Client - Certificate Issue,http://www.iana.org/assignments/media-types/application/vnd.anser-web-certificate-issue-initiation
+.cil,application/vnd.ms-artgalry,Microsoft Artgalry,http://www.iana.org/assignments/media-types/application/vnd.ms-artgalry
+.cla,application/vnd.claymore,Claymore Data Files,http://www.iana.org/assignments/media-types/application/vnd.claymore
+.class,application/java,,
+.class,application/java-byte-code,,
+.class,application/java-vm,Java Bytecode File,http://en.wikipedia.org/wiki/Java_bytecode
+.class,application/octet-stream,,
+.class,application/x-java-class,,
+.clkk,application/vnd.crick.clicker.keyboard,CrickSoftware - Clicker - Keyboard,http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
+.clkp,application/vnd.crick.clicker.palette,CrickSoftware - Clicker - Palette,http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
+.clkt,application/vnd.crick.clicker.template,CrickSoftware - Clicker - Template,http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
+.clkw,application/vnd.crick.clicker.wordbank,CrickSoftware - Clicker - Wordbank,http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
+.clkx,application/vnd.crick.clicker,CrickSoftware - Clicker,http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
+.clp,application/x-msclip,Microsoft Clipboard Clip,http://en.wikipedia.org/wiki/Clipboard_%28computing%29
+.cmc,application/vnd.cosmocaller,CosmoCaller,http://www.iana.org/assignments/media-types/application/vnd.cosmocaller
+.cmdf,chemical/x-cmdf,CrystalMaker Data Format,http://www.crystalmaker.com/crystalmaker/whatis.html
+.cml,chemical/x-cml,Chemical Markup Language,http://en.wikipedia.org/wiki/Chemical_Markup_Language
+.cmp,application/vnd.yellowriver-custom-menu,CustomMenu,http://www.iana.org/assignments/media-types/application/vnd.yellowriver-custom-menu
+.cmx,image/x-cmx,Corel Metafile Exchange (CMX),http://en.wikipedia.org/wiki/CorelDRAW
+.cod,application/vnd.rim.cod,Blackberry COD File,
+.cod,image/cis-cod,,
+.com,application/octet-stream,,
+.com,text/plain,,
+.conf,text/plain,,
+.cpio,application/x-cpio,CPIO Archive,http://en.wikipedia.org/wiki/Cpio
+.cpp,text/x-c,,
+.cpt,application/mac-compactpro,Compact Pro,http://www.cyclos.com/compactpro.htm
+.cpt,application/x-compactpro,,
+.cpt,application/x-cpt,,
+.crd,application/x-mscardfile,Microsoft Information Card,http://en.wikipedia.org/wiki/Information_Card
+.crl,application/pkcs-crl,,
+.crl,application/pkix-crl,Internet Public Key Infrastructure - Certificate Revocation Lists,http://www.ietf.org/rfc/rfc2585.txt
+.crt,application/pkix-cert,,
+.crt,application/x-x509-ca-cert,,
+.crt,application/x-x509-user-cert,,
+.cryptonote,application/vnd.rig.cryptonote,CryptoNote,http://www.iana.org/assignments/media-types/application/vnd.rig.cryptonote
+.csh,application/x-csh,C Shell Script,http://en.wikipedia.org/wiki/C_shell
+.csh,text/x-script.csh,,
+.csml,chemical/x-csml,Chemical Style Markup Language,http://en.wikipedia.org/wiki/Chemical_file_format
+.csp,application/vnd.commonspace,Sixth Floor Media - CommonSpace,http://www.iana.org/assignments/media-types/application/vnd.commonspace
+.css,application/x-pointplus,,
+.css,text/css,Cascading Style Sheets (CSS),http://en.wikipedia.org/wiki/Css
+.csv,text/csv,Comma-Seperated Values,http://en.wikipedia.org/wiki/Comma-separated_values
+.cu,application/cu-seeme,CU-SeeMe,http://www.wpine.com/
+.curl,text/vnd.curl,Curl - Applet,http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html
+.cww,application/prs.cww,CU-Writer,
+.cxx,text/plain,,
+.dae,model/vnd.collada+xml,COLLADA,http://www.iana.net/assignments/media-types/model/vnd.collada+xml
+.daf,application/vnd.mobius.daf,Mobius Management Systems - UniversalArchive,http://www.iana.org/assignments/media-types/application/vnd.Mobius.DAF
+.davmount,application/davmount+xml,Web Distributed Authoring and Versioning,http://tools.ietf.org/html/rfc4918
+.dcr,application/x-director,,
+.dcurl,text/vnd.curl.dcurl,Curl - Detached Applet,http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html
+.dd2,application/vnd.oma.dd2+xml,OMA Download Agents,http://www.iana.org/assignments/media-types/application/vnd.oma.dd2+xml
+.ddd,application/vnd.fujixerox.ddd,Fujitsu - Xerox 2D CAD Data,http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ddd
+.deb,application/x-debian-package,Debian Package,http://en.wikipedia.org/wiki/Debian_package
+.deepv,application/x-deepv,,
+.def,text/plain,,
+.der,application/x-x509-ca-cert,X.509 Certificate,http://en.wikipedia.org/wiki/X.509
+.dfac,application/vnd.dreamfactory,DreamFactory,http://www.iana.org/assignments/media-types/application/vnd.dreamfactory
+.dif,video/x-dv,,
+.dir,application/x-director,Adobe Shockwave Player,http://en.wikipedia.org/wiki/Adobe_Shockwave_Player
+.dis,application/vnd.mobius.dis,Mobius Management Systems - Distribution Database,http://www.iana.org/assignments/media-types/application/vnd.mobius.dis
+.djvu,image/vnd.djvu,DjVu,http://en.wikipedia.org/wiki/DjVu
+.dl,video/dl,,
+.dl,video/x-dl,,
+.dll,application/x-msdownload,,
+.dmg,application/x-apple-diskimage,Apple Disk Image,https://en.wikipedia.org/wiki/Apple_Disk_Image
+.dms,application/octet-stream,,
+.dna,application/vnd.dna,New Moon Liftoff/DNA,http://www.iana.org/assignments/media-types/application/vnd.dna
+.doc,application/msword,Microsoft Word,http://en.wikipedia.org/wiki/Microsoft_Word
+.docm,application/vnd.ms-word.document.macroenabled.12,Microsoft Word - Macro-Enabled Document,http://www.iana.org/assignments/media-types/application/vnd.ms-word.document.macroEnabled.12
+.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document,Microsoft Office - OOXML - Word Document,http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document
+.dot,application/msword,,
+.dotm,application/vnd.ms-word.template.macroenabled.12,Microsoft Word - Macro-Enabled Template,http://www.iana.org/assignments/media-types/application/vnd.ms-word.template.macroEnabled.12
+.dotx,application/vnd.openxmlformats-officedocument.wordprocessingml.template,Microsoft Office - OOXML - Word Document Template,http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.template
+.dp,application/commonground,,
+.dp,application/vnd.osgi.dp,OSGi Deployment Package,http://www.iana.org/assignments/media-types/application/vnd.osgi.dp
+.dpg,application/vnd.dpgraph,DPGraph,http://www.iana.org/assignments/media-types/application/vnd.dpgraph
+.dra,audio/vnd.dra,DRA Audio,http://www.iana.org/assignments/media-types/audio/vnd.dra
+.drw,application/drafting,,
+.dsc,text/prs.lines.tag,PRS Lines Tag,http://www.iana.org/assignments/media-types/text/prs.lines.tag
+.dssc,application/dssc+der,Data Structure for the Security Suitability of Cryptographic Algorithms,http://www.rfc-editor.org/rfc/rfc5698.txt
+.dtb,application/x-dtbook+xml,Digital Talking Book,http://en.wikipedia.org/wiki/EPUB
+.dtd,application/xml-dtd,Document Type Definition,http://www.w3.org/TR/html4/sgml/dtd.html
+.dts,audio/vnd.dts,DTS Audio,http://www.iana.org/assignments/media-types/audio/vnd.dts
+.dtshd,audio/vnd.dts.hd,DTS High Definition Audio,http://www.iana.org/assignments/media-types/audio/vnd.dts.hd
+.dump,application/octet-stream,,
+.dv,video/x-dv,,
+.dvi,application/x-dvi,Device Independent File Format (DVI),http://en.wikipedia.org/wiki/Device_independent_file_format
+.dwf,drawing/x-dwf (old),,
+.dwf,model/vnd.dwf,Autodesk Design Web Format (DWF),http://en.wikipedia.org/wiki/Design_Web_Format
+.dwg,application/acad,,
+.dwg,image/vnd.dwg,DWG Drawing,http://en.wikipedia.org/wiki/Dwg
+.dwg,image/x-dwg,,
+.dxf,application/dxf,,
+.dxf,image/vnd.dwg,,
+.dxf,image/vnd.dxf,AutoCAD DXF,http://en.wikipedia.org/wiki/Dxf
+.dxf,image/x-dwg,,
+.dxp,application/vnd.spotfire.dxp,TIBCO Spotfire,http://www.iana.org/assignments/media-types/application/vnd.spotfire.dxp
+.dxr,application/x-director,,
+.ecelp4800,audio/vnd.nuera.ecelp4800,Nuera ECELP 4800,http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp4800
+.ecelp7470,audio/vnd.nuera.ecelp7470,Nuera ECELP 7470,http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp7470
+.ecelp9600,audio/vnd.nuera.ecelp9600,Nuera ECELP 9600,http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp9600
+.edm,application/vnd.novadigm.edm,Novadigm's RADIA and EDM products,http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDM
+.edx,application/vnd.novadigm.edx,Novadigm's RADIA and EDM products,http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDX
+.efif,application/vnd.picsel,Pcsel eFIF File,http://www.iana.org/assignments/media-types/application/vnd.picsel
+.ei6,application/vnd.pg.osasli,Proprietary P&G Standard Reporting System,http://www.iana.org/assignments/media-types/application/vnd.pg.osasli
+.el,text/x-script.elisp,,
+.elc,application/x-bytecode.elisp (compiled elisp),,
+.elc,application/x-elc,,
+.eml,message/rfc822,Email Message,http://www.rfc-editor.org/info/rfc2822
+.emma,application/emma+xml,Extensible MultiModal Annotation,http://www.w3.org/TR/2007/CR-emma-20071211/
+.env,application/x-envoy,,
+.eol,audio/vnd.digital-winds,Digital Winds Music,http://www.iana.org/assignments/media-types/audio/vnd.digital-winds
+.eot,application/vnd.ms-fontobject,Microsoft Embedded OpenType,http://www.iana.org/assignments/media-types/application/vnd.ms-fontobject
+.eps,application/postscript,,
+.epub,application/epub+zip,Electronic Publication,http://en.wikipedia.org/wiki/EPUB
+.es,application/ecmascript,ECMAScript,http://www.ecma-international.org/publications/standards/Ecma-357.htm
+.es,application/x-esrehber,,
+.es3,application/vnd.eszigno3+xml,MICROSEC e-Szign¢,http://www.iana.org/assignments/media-types/application/vnd.eszigno3+xml
+.esf,application/vnd.epson.esf,QUASS Stream Player,http://www.iana.org/assignments/media-types/application/vnd.epson.esf
+.etx,text/x-setext,Setext,http://en.wikipedia.org/wiki/Setext
+.evy,application/envoy,,
+.evy,application/x-envoy,,
+.exe,application/octet-stream,,
+.exe,application/x-msdownload,Microsoft Application,http://en.wikipedia.org/wiki/EXE
+.exi,application/exi,Efficient XML Interchange,http://www.w3.org/TR/exi-best-practices/
+.ext,application/vnd.novadigm.ext,Novadigm's RADIA and EDM products,http://www.iana.org/assignments/media-types/application/vnd.novadigm.EXT
+.ez2,application/vnd.ezpix-album,EZPix Secure Photo Album,http://www.iana.org/assignments/media-types/application/vnd.ezpix-album
+.ez3,application/vnd.ezpix-package,EZPix Secure Photo Album,http://www.iana.org/assignments/media-types/application/vnd.ezpix-package
+.f,text/plain,,
+.f,text/x-fortran,Fortran Source File,http://en.wikipedia.org/wiki/Fortran
+.f4v,video/x-f4v,Flash Video,http://en.wikipedia.org/wiki/Flash_Video
+.f77,text/x-fortran,,
+.f90,text/plain,,
+.f90,text/x-fortran,,
+.fbs,image/vnd.fastbidsheet,FastBid Sheet,http://www.ietf.org/assignments/media-types/image/vnd.fastbidsheet
+.fcs,application/vnd.isac.fcs,International Society for Advancement of Cytometry,http://www.iana.org/assignments/media-types/application/vnd.isac.fcs
+.fdf,application/vnd.fdf,Forms Data Format,http://www.iana.org/assignments/media-types/application/vnd-fdf
+.fe_launch,application/vnd.denovo.fcselayout-link,FCS Express Layout Link,http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link
+.fg5,application/vnd.fujitsu.oasysgp,Fujitsu Oasys,http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysgp
+.fh,image/x-freehand,FreeHand MX,http://en.wikipedia.org/wiki/Macromedia_FreeHand
+.fif,application/fractals,,
+.fif,image/fif,,
+.fig,application/x-xfig,Xfig,http://en.wikipedia.org/wiki/Xfig
+.fli,video/fli,,
+.fli,video/x-fli,FLI/FLC Animation Format,http://www.aos.wisc.edu/fli.html
+.flo,application/vnd.micrografx.flo,Micrografx,http://www.iana.org/assignments/media-types/application/vnd.micrografx.flo
+.flo,image/florian,,
+.flr,x-world/x-vrml,,
+.flv,video/x-flv,Flash Video,http://en.wikipedia.org/wiki/Flash_Video
+.flw,application/vnd.kde.kivio,KDE KOffice Office Suite - Kivio,http://www.iana.org/assignments/media-types/application/vnd.kde.kivio
+.flx,text/vnd.fmi.flexstor,FLEXSTOR,http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor
+.fly,text/vnd.fly,mod_fly / fly.cgi,http://www.iana.org/assignments/media-types/text/vnd.fly
+.fm,application/vnd.framemaker,FrameMaker Normal Format,http://www.iana.org/assignments/media-types/application/vnd.framemaker
+.fmf,video/x-atomic3d-feature,,
+.fnc,application/vnd.frogans.fnc,Frogans Player,http://www.iana.org/assignments/media-types/application/vnd.frogans.fnc
+.for,text/plain,,
+.for,text/x-fortran,,
+.fpx,image/vnd.fpx,FlashPix,http://www.ietf.org/assignments/media-types/image/vnd.fpx
+.fpx,image/vnd.net-fpx,,
+.frl,application/freeloader,,
+.fsc,application/vnd.fsc.weblaunch,Friendly Software Corporation,http://www.iana.org/assignments/media-types/application/vnd.fsc.weblaunch
+.fst,image/vnd.fst,FAST Search & Transfer ASA,http://www.ietf.org/assignments/media-types/image/vnd.fst
+.ftc,application/vnd.fluxtime.clip,FluxTime Clip,http://www.iana.org/assignments/media-types/application/vnd.fluxtime.clip
+.fti,application/vnd.anser-web-funds-transfer-initiation,ANSER-WEB Terminal Client - Web Funds Transfer,http://www.iana.org/assignments/media-types/application/vnd.anser-web-funds-transfer-initiation
+.funk,audio/make,,
+.fvt,video/vnd.fvt,FAST Search & Transfer ASA,http://www.iana.org/assignments/media-types/video/vnd.fvt
+.fxp,application/vnd.adobe.fxp,Adobe Flex Project,http://www.iana.org/assignments/media-types/application/vnd.adobe.fxp
+.fzs,application/vnd.fuzzysheet,FuzzySheet,http://www.iana.org/assignments/media-types/application/vnd.fuzzysheet
+.g,text/plain,,
+.g2w,application/vnd.geoplan,GeoplanW,http://www.iana.org/assignments/media-types/application/vnd.geoplan
+.g3,image/g3fax,G3 Fax Image,http://en.wikipedia.org/wiki/T.38
+.g3w,application/vnd.geospace,GeospacW,http://www.iana.org/assignments/media-types/application/vnd.geospace
+.gac,application/vnd.groove-account,Groove - Account,http://www.iana.org/assignments/media-types/application/vnd.groove-account
+.gdl,model/vnd.gdl,Geometric Description Language (GDL),http://www.iana.org/assignments/media-types/model/vnd.gs-gdl
+.geo,application/vnd.dynageo,DynaGeo,http://www.iana.org/assignments/media-types/application/vnd.dynageo
+.gex,application/vnd.geometry-explorer,GeoMetry Explorer,http://www.iana.org/assignments/media-types/application/vnd.geometry-explorer
+.ggb,application/vnd.geogebra.file,GeoGebra,http://www.iana.org/assignments/media-types/application/vnd.geogebra.file
+.ggt,application/vnd.geogebra.tool,GeoGebra,http://www.iana.org/assignments/media-types/application/vnd.geogebra.tool
+.ghf,application/vnd.groove-help,Groove - Help,http://www.iana.org/assignments/media-types/application/vnd.groove-help
+.gif,image/gif,Graphics Interchange Format,http://en.wikipedia.org/wiki/Gif
+.gim,application/vnd.groove-identity-message,Groove - Identity Message,http://www.iana.org/assignments/media-types/application/vnd.groove-identity-message
+.gl,video/gl,,
+.gl,video/x-gl,,
+.gmx,application/vnd.gmx,GameMaker ActiveX,http://www.iana.org/assignments/media-types/application/vnd.gmx
+.gnumeric,application/x-gnumeric,Gnumeric,http://en.wikipedia.org/wiki/Gnumeric
+.gph,application/vnd.flographit,NpGraphIt,http://www.iana.org/assignments/media-types/application/vnd.flographit
+.gqf,application/vnd.grafeq,GrafEq,http://www.iana.org/assignments/media-types/application/vnd.grafeq
+.gram,application/srgs,Speech Recognition Grammar Specification,http://www.w3.org/TR/speech-grammar/
+.grv,application/vnd.groove-injector,Groove - Injector,http://www.iana.org/assignments/media-types/application/vnd.groove-injector
+.grxml,application/srgs+xml,Speech Recognition Grammar Specification - XML,http://www.w3.org/TR/speech-grammar/
+.gsd,audio/x-gsm,,
+.gsf,application/x-font-ghostscript,Ghostscript Font,http://en.wikipedia.org/wiki/Ghostscript
+.gsm,audio/x-gsm,,
+.gsp,application/x-gsp,,
+.gss,application/x-gss,,
+.gtar,application/x-gtar,GNU Tar Files,http://www.gnu.org/software/tar/
+.gtm,application/vnd.groove-tool-message,Groove - Tool Message,http://www.iana.org/assignments/media-types/application/vnd.groove-tool-message
+.gtw,model/vnd.gtw,Gen-Trix Studio,http://www.iana.org/assignments/media-types/model/vnd.gtw
+.gv,text/vnd.graphviz,Graphviz,http://www.iana.org/assignments/media-types/text/vnd.graphviz
+.gxt,application/vnd.geonext,GEONExT and JSXGraph,http://www.iana.org/assignments/media-types/application/vnd.geonext
+.gz,application/x-compressed,,
+.gz,application/x-gzip,,
+.gzip,application/x-gzip,,
+.gzip,multipart/x-gzip,,
+.h,text/plain,,
+.h,text/x-h,,
+.h261,video/h261,H.261,http://en.wikipedia.org/wiki/H261
+.h263,video/h263,H.263,http://en.wikipedia.org/wiki/H263
+.h264,video/h264,H.264,http://en.wikipedia.org/wiki/H264
+.hal,application/vnd.hal+xml,Hypertext Application Language,http://www.iana.org/assignments/media-types/application/vnd.hal+xml
+.hbci,application/vnd.hbci,Homebanking Computer Interface (HBCI),http://www.iana.org/assignments/media-types/application/vnd.hbci
+.hdf,application/x-hdf,Hierarchical Data Format,http://en.wikipedia.org/wiki/Hierarchical_Data_Format
+.help,application/x-helpfile,,
+.hgl,application/vnd.hp-hpgl,,
+.hh,text/plain,,
+.hh,text/x-h,,
+.hlb,text/x-script,,
+.hlp,application/hlp,,
+.hlp,application/winhlp,WinHelp,http://en.wikipedia.org/wiki/WinHelp
+.hlp,application/x-helpfile,,
+.hlp,application/x-winhelp,,
+.hpg,application/vnd.hp-hpgl,,
+.hpgl,application/vnd.hp-hpgl,HP-GL/2 and HP RTL,http://www.iana.org/assignments/media-types/application/vnd.hp-HPGL
+.hpid,application/vnd.hp-hpid,Hewlett Packard Instant Delivery,http://www.iana.org/assignments/media-types/application/vnd.hp-hpid
+.hps,application/vnd.hp-hps,Hewlett-Packard's WebPrintSmart,http://www.iana.org/assignments/media-types/application/vnd.hp-hps
+.hqx,application/binhex,,
+.hqx,application/binhex4,,
+.hqx,application/mac-binhex,,
+.hqx,application/mac-binhex40,Macintosh BinHex 4.0,http://www.iana.org/assignments/media-types/multipart/appledouble
+.hqx,application/x-binhex40,,
+.hqx,application/x-mac-binhex40,,
+.hta,application/hta,,
+.htc,text/x-component,,
+.htke,application/vnd.kenameaapp,Kenamea App,http://www.iana.org/assignments/media-types/application/vnd.kenameaapp
+.htm,text/html,,
+.html,text/html,HyperText Markup Language (HTML),http://en.wikipedia.org/wiki/Html
+.htmls,text/html,,
+.htt,text/webviewhtml,,
+.htx,text/html,,
+.hvd,application/vnd.yamaha.hv-dic,HV Voice Dictionary,http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-dic
+.hvp,application/vnd.yamaha.hv-voice,HV Voice Parameter,http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-voice
+.hvs,application/vnd.yamaha.hv-script,HV Script,http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-script
+.i2g,application/vnd.intergeo,Interactive Geometry Software,http://www.iana.org/assignments/media-types/application/vnd.intergeo
+.icc,application/vnd.iccprofile,ICC profile,http://www.iana.org/assignments/media-types/application/vnd.iccprofile
+.ice,x-conference/x-cooltalk,CoolTalk,http://en.wikipedia.org/wiki/CoolTalk
+.ico,image/x-icon,Icon Image,http://en.wikipedia.org/wiki/ICO_%28file_format%29
+.ics,text/calendar,iCalendar,http://en.wikipedia.org/wiki/ICalendar
+.idc,text/plain,,
+.ief,image/ief,Image Exchange Format,http://www.rfc-editor.org/rfc/rfc1314.txt
+.iefs,image/ief,,
+.ifm,application/vnd.shana.informed.formdata,Shana Informed Filler,http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formdata
+.iges,application/iges,,
+.iges,model/iges,,
+.igl,application/vnd.igloader,igLoader,http://www.iana.org/assignments/media-types/application/vnd.igloader
+.igm,application/vnd.insors.igm,IOCOM Visimeet,http://www.iana.org/assignments/media-types/application/vnd.insors.igm
+.igs,application/iges,,
+.igs,model/iges,Initial Graphics Exchange Specification (IGES),http://en.wikipedia.org/wiki/IGES
+.igx,application/vnd.micrografx.igx,Micrografx iGrafx Professional,http://www.iana.org/assignments/media-types/application/vnd.micrografx.igx
+.iif,application/vnd.shana.informed.interchange,Shana Informed Filler,http://www.iana.org/assignments/media-types/application/vnd.shana.informed.interchange
+.iii,application/x-iphone,,
+.ima,application/x-ima,,
+.imap,application/x-httpd-imap,,
+.imp,application/vnd.accpac.simply.imp,Simply Accounting - Data Import,http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.imp
+.ims,application/vnd.ms-ims,Microsoft Class Server,http://www.iana.org/assignments/media-types/application/vnd.ms-ims
+.inf,application/inf,,
+.ins,application/x-internet-signup,,
+.ins,application/x-internett-signup,,
+.ip,application/x-ip2,,
+.ipfix,application/ipfix,Internet Protocol Flow Information Export,http://tools.ietf.org/html/rfc3917
+.ipk,application/vnd.shana.informed.package,Shana Informed Filler,http://www.iana.org/assignments/media-types/application/vnd.shana.informed.package
+.irm,application/vnd.ibm.rights-management,IBM DB2 Rights Manager,http://www.iana.org/assignments/media-types/application/vnd.ibm.rights-management
+.irp,application/vnd.irepository.package+xml,iRepository / Lucidoc Editor,http://www.iana.org/assignments/media-types/application/vnd.irepository.package+xml
+.isp,application/x-internet-signup,,
+.isu,video/x-isvideo,,
+.it,audio/it,,
+.itp,application/vnd.shana.informed.formtemplate,Shana Informed Filler,http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formtemplate
+.iv,application/x-inventor,,
+.ivp,application/vnd.immervision-ivp,ImmerVision PURE Players,http://www.iana.org/assignments/media-types/application/vnd.immervision-ivp
+.ivr,i-world/i-vrml,,
+.ivu,application/vnd.immervision-ivu,ImmerVision PURE Players,http://www.iana.org/assignments/media-types/application/vnd.immervision-ivu
+.ivy,application/x-livescreen,,
+.jad,text/vnd.sun.j2me.app-descriptor,J2ME App Descriptor,http://www.iana.org/assignments/media-types/text/vnd.sun.j2me.app-descriptor
+.jam,application/vnd.jam,Lightspeed Audio Lab,http://www.iana.org/assignments/media-types/application/vnd.jam
+.jam,audio/x-jam,,
+.jar,application/java-archive,Java Archive,http://en.wikipedia.org/wiki/JAR_%28file_format%29
+.jav,text/plain,,
+.jav,text/x-java-source,,
+.java,java,Java Source File,http://en.wikipedia.org/wiki/Java_%28programming_language%29
+.java,text/plain,,
+.java,text/x-java-source,Java Source File,http://en.wikipedia.org/wiki/Java_%28programming_language%29
+.jcm,application/x-java-commerce,,
+.jfif,image/jpeg,,
+.jfif,image/pipeg,,
+.jfif,image/pjpeg,,
+.jfif-tbnl,image/jpeg,,
+.jisp,application/vnd.jisp,RhymBox,http://www.iana.org/assignments/media-types/application/vnd.jisp
+.jlt,application/vnd.hp-jlyt,HP Indigo Digital Press - Job Layout Languate,http://www.iana.org/assignments/media-types/application/vnd.hp-jlyt
+.jnlp,application/x-java-jnlp-file,Java Network Launching Protocol,http://en.wikipedia.org/wiki/Java_Web_Start
+.joda,application/vnd.joost.joda-archive,Joda Archive,http://www.iana.org/assignments/media-types/application/vnd.joost.joda-archive
+.jpe,image/jpeg,,
+.jpe,image/pjpeg,,
+.jpeg,image/jpeg,JPEG Image,http://www.rfc-editor.org/rfc/rfc1314.txt
+.jpeg,image/pjpeg,,
+.jpg,image/jpeg,JPEG Image,http://www.rfc-editor.org/rfc/rfc1314.txt
+.jpg,image/pjpeg,,
+.jpgv,video/jpeg,JPGVideo,http://www.rfc-editor.org/rfc/rfc3555.txt
+.jpm,video/jpm,JPEG 2000 Compound Image File Format,http://www.iana.org/assignments/media-types/video/jpm
+.jps,image/x-jps,,
+.js,application/ecmascript,,
+.js,application/javascript,JavaScript,http://en.wikipedia.org/wiki/Javascript
+.js,application/x-javascript,,
+.js,text/ecmascript,,
+.js,text/javascript,,
+.json,application/json,JavaScript Object Notation (JSON),http://en.wikipedia.org/wiki/Json
+.jut,image/jutvision,,
+.kar,audio/midi,,
+.kar,music/x-karaoke,,
+.karbon,application/vnd.kde.karbon,KDE KOffice Office Suite - Karbon,http://www.iana.org/assignments/media-types/application/vnd.kde.karbon
+.kfo,application/vnd.kde.kformula,KDE KOffice Office Suite - Kformula,http://www.iana.org/assignments/media-types/application/vnd.kde.kformula
+.kia,application/vnd.kidspiration,Kidspiration,http://www.iana.org/assignments/media-types/application/vnd.kidspiration
+.kml,application/vnd.google-earth.kml+xml,Google Earth - KML,http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml
+.kmz,application/vnd.google-earth.kmz,Google Earth - Zipped KML,http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz
+.kne,application/vnd.kinar,Kinar Applications,http://www.iana.org/assignments/media-types/application/vnd.Kinar
+.kon,application/vnd.kde.kontour,KDE KOffice Office Suite - Kontour,http://www.iana.org/assignments/media-types/application/vnd.kde.kontour
+.kpr,application/vnd.kde.kpresenter,KDE KOffice Office Suite - Kpresenter,http://www.iana.org/assignments/media-types/application/vnd.kde.kpresenter
+.ksh,application/x-ksh,,
+.ksh,text/x-script.ksh,,
+.ksp,application/vnd.kde.kspread,KDE KOffice Office Suite - Kspread,http://www.iana.org/assignments/media-types/application/vnd.kde.kspread
+.ktx,image/ktx,OpenGL Textures (KTX),http://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/
+.ktz,application/vnd.kahootz,Kahootz,http://www.iana.org/assignments/media-types/application/vnd.kahootz
+.kwd,application/vnd.kde.kword,KDE KOffice Office Suite - Kword,http://www.iana.org/assignments/media-types/application/vnd.kde.kword
+.la,audio/nspaudio,,
+.la,audio/x-nspaudio,,
+.lam,audio/x-liveaudio,,
+.lasxml,application/vnd.las.las+xml,Laser App Enterprise,http://www.iana.org/assignments/media-types/application/vnd.las.las+xml
+.latex,application/x-latex,LaTeX,http://en.wikipedia.org/wiki/LaTeX
+.lbd,application/vnd.llamagraphics.life-balance.desktop,Life Balance - Desktop Edition,http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.desktop
+.lbe,application/vnd.llamagraphics.life-balance.exchange+xml,Life Balance - Exchange Format,http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.exchange+xml
+.les,application/vnd.hhe.lesson-player,Archipelago Lesson Player,http://www.iana.org/assignments/media-types/application/vnd.hhe.lesson-player
+.lha,application/lha,,
+.lha,application/octet-stream,,
+.lha,application/x-lha,,
+.lhx,application/octet-stream,,
+.link66,application/vnd.route66.link66+xml,ROUTE 66 Location Based Services,http://www.iana.org/assignments/media-types/application/vnd.route66.link66+xml
+.list,text/plain,,
+.lma,audio/nspaudio,,
+.lma,audio/x-nspaudio,,
+.log,text/plain,,
+.lrm,application/vnd.ms-lrm,Microsoft Learning Resource Module,http://www.iana.org/assignments/media-types/application/vnd.ms-lrm
+.lsf,video/x-la-asf,,
+.lsp,application/x-lisp,,
+.lsp,text/x-script.lisp,,
+.lst,text/plain,,
+.lsx,text/x-la-asf,,
+.lsx,video/x-la-asf,,
+.ltf,application/vnd.frogans.ltf,Frogans Player,http://www.iana.org/assignments/media-types/application/vnd.frogans.ltf
+.ltx,application/x-latex,,
+.lvp,audio/vnd.lucent.voice,Lucent Voice,http://www.iana.org/assignments/media-types/audio/vnd.lucent.voice
+.lwp,application/vnd.lotus-wordpro,Lotus Wordpro,http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro
+.lzh,application/octet-stream,,
+.lzh,application/x-lzh,,
+.lzx,application/lzx,,
+.lzx,application/octet-stream,,
+.lzx,application/x-lzx,,
+.m,text/plain,,
+.m,text/x-m,,
+.m13,application/x-msmediaview,,
+.m14,application/x-msmediaview,,
+.m1v,video/mpeg,,
+.m21,application/mp21,MPEG-21,http://en.wikipedia.org/wiki/MPEG-21
+.m2a,audio/mpeg,,
+.m2v,video/mpeg,,
+.m3u,audio/x-mpegurl,M3U (Multimedia Playlist),http://en.wikipedia.org/wiki/M3u
+.m3u,audio/x-mpequrl,,
+.m3u8,application/vnd.apple.mpegurl,Multimedia Playlist Unicode,http://en.wikipedia.org/wiki/M3U
+.m4v,video/x-m4v,M4v,http://en.wikipedia.org/wiki/M4v
+.ma,application/mathematica,Mathematica Notebooks,http://www.iana.org/assignments/media-types/application/mathematica
+.mads,application/mads+xml,Metadata Authority  Description Schema,http://tools.ietf.org/html/rfc6207
+.mag,application/vnd.ecowin.chart,EcoWin Chart,http://www.iana.org/assignments/media-types/application/vnd.ecowin.chart
+.man,application/x-troff-man,,
+.map,application/x-navimap,,
+.mar,text/plain,,
+.mathml,application/mathml+xml,Mathematical Markup Language,http://www.w3.org/Math/
+.mbd,application/mbedlet,,
+.mbk,application/vnd.mobius.mbk,Mobius Management Systems - Basket file,http://www.iana.org/assignments/media-types/application/vnd.mobius.mbk
+.mbox,application/mbox,Mbox database files,http://tools.ietf.org/html/rfc4155
+.mc$,application/x-magic-cap-package-1.0,,
+.mc1,application/vnd.medcalcdata,MedCalc,http://www.iana.org/assignments/media-types/application/vnd.medcalcdata
+.mcd,application/mcad,,
+.mcd,application/vnd.mcd,Micro CADAM Helix D&D,http://www.iana.org/assignments/media-types/application/vnd.mcd
+.mcd,application/x-mathcad,,
+.mcf,image/vasa,,
+.mcf,text/mcf,,
+.mcp,application/netmc,,
+.mcurl,text/vnd.curl.mcurl,Curl - Manifest File,http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html
+.mdb,application/x-msaccess,Microsoft Access,http://en.wikipedia.org/wiki/Microsoft_Access
+.mdi,image/vnd.ms-modi,Microsoft Document Imaging Format,http://en.wikipedia.org/wiki/Microsoft_Document_Imaging_Format
+.me,application/x-troff-me,,
+.meta4,application/metalink4+xml,Metalink,http://en.wikipedia.org/wiki/Metalink
+.mets,application/mets+xml,Metadata Encoding and Transmission Standard,http://tools.ietf.org/html/rfc6207
+.mfm,application/vnd.mfmp,Melody Format for Mobile Platform,http://www.iana.org/assignments/media-types/application/vnd.mfmp
+.mgp,application/vnd.osgeo.mapguide.package,MapGuide DBXML,http://www.iana.org/assignments/media-types/application/vnd.osgeo.mapguide.package
+.mgz,application/vnd.proteus.magazine,EFI Proteus,http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine
+.mht,message/rfc822,,
+.mhtml,message/rfc822,,
+.mid,application/x-midi,,
+.mid,audio/mid,,
+.mid,audio/midi,MIDI - Musical Instrument Digital Interface,http://en.wikipedia.org/wiki/Midi
+.mid,audio/x-mid,,
+.mid,audio/x-midi,,
+.mid,music/crescendo,,
+.mid,x-music/x-midi,,
+.midi,application/x-midi,,
+.midi,audio/midi,,
+.midi,audio/x-mid,,
+.midi,audio/x-midi,,
+.midi,music/crescendo,,
+.midi,x-music/x-midi,,
+.mif,application/vnd.mif,FrameMaker Interchange Format,http://www.iana.org/assignments/media-types/application/vnd-mif
+.mif,application/x-frame,,
+.mif,application/x-mif,,
+.mime,message/rfc822,,
+.mime,www/mime,,
+.mj2,video/mj2,Motion JPEG 2000,http://www.iana.org/assignments/media-types/video/mj2
+.mjf,audio/x-vnd.audioexplosion.mjuicemediafile,,
+.mjpg,video/x-motion-jpeg,,
+.mlp,application/vnd.dolby.mlp,Dolby Meridian Lossless Packing,http://www.iana.org/assignments/media-types/application/vnd.dolby.mlp
+.mm,application/base64,,
+.mm,application/x-meme,,
+.mmd,application/vnd.chipnuts.karaoke-mmd,Karaoke on Chipnuts Chipsets,http://www.iana.org/assignments/media-types/application/vnd.chipnuts.karaoke-mmd
+.mme,application/base64,,
+.mmf,application/vnd.smaf,SMAF File,http://www.iana.org/assignments/media-types/application/vnd.smaf
+.mmr,image/vnd.fujixerox.edmics-mmr,EDMICS 2000,http://www.ietf.org/assignments/media-types/image/vnd.fujixerox.edmics-mmr
+.mny,application/x-msmoney,Microsoft Money,http://en.wikipedia.org/wiki/Microsoft_money
+.mod,audio/mod,,
+.mod,audio/x-mod,,
+.mods,application/mods+xml,Metadata Object Description Schema,http://tools.ietf.org/html/rfc6207
+.moov,video/quicktime,,
+.mov,video/quicktime,,
+.movie,video/x-sgi-movie,SGI Movie,http://www.pimpworks.org/sgi/faq/movie.shtml
+.mp2,audio/mpeg,,
+.mp2,audio/x-mpeg,,
+.mp2,video/mpeg,,
+.mp2,video/x-mpeg,,
+.mp2,video/x-mpeq2a,,
+.mp3,audio/mpeg,,
+.mp3,audio/mpeg3,,
+.mp3,audio/x-mpeg-3,,
+.mp3,video/mpeg,,
+.mp3,video/x-mpeg,,
+.mp4,application/mp4,MPEG4,http://www.rfc-editor.org/rfc/rfc4337.txt
+.mp4,video/mp4,MPEG-4 Video,http://en.wikipedia.org/wiki/MPEG-4_Part_14
+.mp4a,audio/mp4,MPEG-4 Audio,http://en.wikipedia.org/wiki/Mp4a
+.mpa,audio/mpeg,,
+.mpa,video/mpeg,,
+.mpc,application/vnd.mophun.certificate,Mophun Certificate,http://www.iana.org/assignments/media-types/application/vnd.mophun.certificate
+.mpc,application/x-project,,
+.mpe,video/mpeg,,
+.mpeg,video/mpeg,MPEG Video,http://en.wikipedia.org/wiki/Mpeg
+.mpg,audio/mpeg,,
+.mpg,video/mpeg,,
+.mpga,audio/mpeg,MPEG Audio,http://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II
+.mpkg,application/vnd.apple.installer+xml,Apple Installer Package,http://www.iana.org/assignments/media-types/application/vnd.apple.installer+xml
+.mpm,application/vnd.blueice.multipass,Blueice Research Multipass,"http://www.cisionwire.com/blueice-research/r/the-multipass-gives-pda-users-better-security,e37928"
+.mpn,application/vnd.mophun.application,Mophun VM,http://www.iana.org/assignments/media-types/application/vnd.mophun.application
+.mpp,application/vnd.ms-project,Microsoft Project,http://www.iana.org/assignments/media-types/application/vnd.ms-project
+.mpt,application/x-project,,
+.mpv,application/x-project,,
+.mpv2,video/mpeg,,
+.mpx,application/x-project,,
+.mpy,application/vnd.ibm.minipay,MiniPay,http://www.iana.org/assignments/media-types/application/vnd.ibm.MiniPay
+.mqy,application/vnd.mobius.mqy,Mobius Management Systems - Query File,http://www.iana.org/assignments/media-types/application/vnd.mobius.mqy
+.mrc,application/marc,MARC Formats,http://www.faqs.org/rfcs/rfc2220.html
+.mrcx,application/marcxml+xml,MARC21 XML Schema,http://tools.ietf.org/html/rfc6207
+.ms,application/x-troff-ms,,
+.mscml,application/mediaservercontrol+xml,Media Server Control Markup Language,http://tools.ietf.org/html/rfc5022
+.mseq,application/vnd.mseq,3GPP MSEQ File,http://www.iana.org/assignments/media-types/application/vnd.mseq
+.msf,application/vnd.epson.msf,QUASS Stream Player,http://www.iana.org/assignments/media-types/application/vnd.epson.msf
+.msg,application/vnd.ms-outlook,,
+.msh,model/mesh,Mesh Data Type,http://www.ietf.org/rfc/rfc2077.txt
+.msl,application/vnd.mobius.msl,Mobius Management Systems - Script Language,http://www.iana.org/assignments/media-types/application/vnd.mobius.msl
+.msty,application/vnd.muvee.style,Muvee Automatic Video Editing,http://www.iana.org/assignments/media-types/application/vnd.muvee.style
+.mts,model/vnd.mts,Virtue MTS,http://www.iana.org/assignments/media-types/model/vnd.mts
+.mus,application/vnd.musician,MUsical Score Interpreted Code Invented  for the ASCII designation of Notation,http://www.iana.org/assignments/media-types/application/vnd.musician
+.musicxml,application/vnd.recordare.musicxml+xml,Recordare Applications,http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml+xml
+.mv,video/x-sgi-movie,,
+.mvb,application/x-msmediaview,Microsoft MediaView,http://www.herdsoft.com/ti/winhelpcgi/winhelpcgi.cgi/helpfiles/english/hlp2rtf.hlp/id/id_purpose.html
+.mwf,application/vnd.mfer,Medical Waveform Encoding Format,http://www.iana.org/assignments/media-types/application/vnd.MFER
+.mxf,application/mxf,Material Exchange Format,http://www.ietf.org/rfc/rfc4539.txt
+.mxl,application/vnd.recordare.musicxml,Recordare Applications,http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml
+.mxml,application/xv+xml,MXML,http://en.wikipedia.org/wiki/MXML
+.mxs,application/vnd.triscape.mxs,Triscape Map Explorer,http://www.iana.org/assignments/media-types/application/vnd.triscape.mxs
+.mxu,video/vnd.mpegurl,MPEG Url,http://www.iana.org/assignments/media-types/video/vnd-mpegurl
+.my,audio/make,,
+.mzz,application/x-vnd.audioexplosion.mzz,,
+.n-gage,application/vnd.nokia.n-gage.symbian.install,N-Gage Game Installer,http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.symbian.install
+.n3,text/n3,Notation3,http://en.wikipedia.org/wiki/Notation3
+.nap,image/naplps,,
+.naplps,image/naplps,,
+.nbp,application/vnd.wolfram.player,Mathematica Notebook Player,http://www.iana.org/assignments/media-types/application/vnd.wolfram.player
+.nc,application/x-netcdf,Network Common Data Form (NetCDF),http://en.wikipedia.org/wiki/NetCDF
+.ncm,application/vnd.nokia.configuration-message,,
+.ncx,application/x-dtbncx+xml,Navigation Control file for XML (for ePub),http://en.wikipedia.org/wiki/EPUB
+.ngdat,application/vnd.nokia.n-gage.data,N-Gage Game Data,http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.data
+.nif,image/x-niff,,
+.niff,image/x-niff,,
+.nix,application/x-mix-transfer,,
+.nlu,application/vnd.neurolanguage.nlu,neuroLanguage,http://www.iana.org/assignments/media-types/application/vnd.neurolanguage.nlu
+.nml,application/vnd.enliven,Enliven Viewer,http://www.iana.org/assignments/media-types/application/vnd.enliven
+.nnd,application/vnd.noblenet-directory,NobleNet Directory,http://www.iana.org/assignments/media-types/application/vnd.noblenet-directory
+.nns,application/vnd.noblenet-sealer,NobleNet Sealer,http://www.iana.org/assignments/media-types/application/vnd.noblenet-sealer
+.nnw,application/vnd.noblenet-web,NobleNet Web,http://www.iana.org/assignments/media-types/application/vnd.noblenet-web
+.npx,image/vnd.net-fpx,FlashPix,http://www.ietf.org/assignments/media-types/image/vnd.net-fpx
+.nsc,application/x-conference,,
+.nsf,application/vnd.lotus-notes,Lotus Notes,http://www.iana.org/assignments/media-types/application/vnd.lotus-notes
+.nvd,application/x-navidoc,,
+.nws,message/rfc822,,
+.o,application/octet-stream,,
+.oa2,application/vnd.fujitsu.oasys2,Fujitsu Oasys,http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys2
+.oa3,application/vnd.fujitsu.oasys3,Fujitsu Oasys,http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys3
+.oas,application/vnd.fujitsu.oasys,Fujitsu Oasys,http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys
+.obd,application/x-msbinder,Microsoft Office Binder,http://en.wikipedia.org/wiki/Microsoft_Office_shared_tools
+.oda,application/oda,Office Document Architecture,http://tools.ietf.org/html/rfc2161
+.odb,application/vnd.oasis.opendocument.database,OpenDocument Database,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.database
+.odc,application/vnd.oasis.opendocument.chart,OpenDocument Chart,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart
+.odf,application/vnd.oasis.opendocument.formula,OpenDocument Formula,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula
+.odft,application/vnd.oasis.opendocument.formula-template,OpenDocument Formula Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula-template
+.odg,application/vnd.oasis.opendocument.graphics,OpenDocument Graphics,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics
+.odi,application/vnd.oasis.opendocument.image,OpenDocument Image,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image
+.odm,application/vnd.oasis.opendocument.text-master,OpenDocument Text Master,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-master
+.odp,application/vnd.oasis.opendocument.presentation,OpenDocument Presentation,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation
+.ods,application/vnd.oasis.opendocument.spreadsheet,OpenDocument Spreadsheet,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet
+.odt,application/vnd.oasis.opendocument.text,OpenDocument Text,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text
+.oga,audio/ogg,Ogg Audio,http://en.wikipedia.org/wiki/Ogg
+.ogv,video/ogg,Ogg Video,http://en.wikipedia.org/wiki/Ogg
+.ogx,application/ogg,Ogg,http://en.wikipedia.org/wiki/Ogg
+.omc,application/x-omc,,
+.omcd,application/x-omcdatamaker,,
+.omcr,application/x-omcregerator,,
+.onetoc,application/onenote,Microsoft OneNote,http://office.microsoft.com/en-ca/onenote/
+.opf,application/oebps-package+xml,Open eBook Publication Structure,http://en.wikipedia.org/wiki/Open_eBook
+.org,application/vnd.lotus-organizer,Lotus Organizer,http://www.iana.org/assignments/media-types/application/vnd.lotus-organizer
+.osf,application/vnd.yamaha.openscoreformat,Open Score Format,http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat
+.osfpvg,application/vnd.yamaha.openscoreformat.osfpvg+xml,OSFPVG,http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat.osfpvg+xml
+.otc,application/vnd.oasis.opendocument.chart-template,OpenDocument Chart Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart-template
+.otf,application/x-font-otf,OpenType Font File,http://www.microsoft.com/typography/otspec/otff.htm
+.otg,application/vnd.oasis.opendocument.graphics-template,OpenDocument Graphics Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics-template
+.oth,application/vnd.oasis.opendocument.text-web,Open Document Text Web,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-web
+.oti,application/vnd.oasis.opendocument.image-template,OpenDocument Image Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image-template
+.otp,application/vnd.oasis.opendocument.presentation-template,OpenDocument Presentation Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation-template
+.ots,application/vnd.oasis.opendocument.spreadsheet-template,OpenDocument Spreadsheet Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet-template
+.ott,application/vnd.oasis.opendocument.text-template,OpenDocument Text Template,http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-template
+.oxt,application/vnd.openofficeorg.extension,Open Office Extension,http://www.iana.org/assignments/media-types/application/vnd.openofficeorg.extension
+.p,text/x-pascal,Pascal Source File,http://en.wikipedia.org/wiki/Pascal_%28programming_language%29
+.p10,application/pkcs10,PKCS #10 - Certification Request Standard,http://tools.ietf.org/html/rfc2986
+.p10,application/x-pkcs10,,
+.p12,application/pkcs-12,,
+.p12,application/x-pkcs12,PKCS #12 - Personal Information Exchange Syntax Standard,http://tools.ietf.org/html/rfc2986
+.p7a,application/x-pkcs7-signature,,
+.p7b,application/x-pkcs7-certificates,PKCS #7 - Cryptographic Message Syntax Standard (Certificates),http://tools.ietf.org/html/rfc2986
+.p7c,application/pkcs7-mime,,
+.p7c,application/x-pkcs7-mime,,
+.p7m,application/pkcs7-mime,PKCS #7 - Cryptographic Message Syntax Standard,http://tools.ietf.org/html/rfc2315
+.p7m,application/x-pkcs7-mime,,
+.p7r,application/x-pkcs7-certreqresp,PKCS #7 - Cryptographic Message Syntax Standard (Certificate Request Response),http://tools.ietf.org/html/rfc2986
+.p7s,application/pkcs7-signature,PKCS #7 - Cryptographic Message Syntax Standard,http://tools.ietf.org/html/rfc2315
+.p7s,application/x-pkcs7-signature,,
+.p8,application/pkcs8,PKCS #8 - Private-Key Information Syntax Standard,http://tools.ietf.org/html/rfc5208
+.par,text/plain-bas,BAS Partitur Format,http://www.bas.uni-muenchen.de/Bas/BasFormatseng.html#Partitur
+.part,application/pro_eng,,
+.pas,text/pascal,,
+.paw,application/vnd.pawaafile,PawaaFILE,http://www.iana.org/assignments/media-types/application/vnd.pawaafile
+.pbd,application/vnd.powerbuilder6,PowerBuilder,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6
+.pbm,image/x-portable-bitmap,Portable Bitmap Format,http://en.wikipedia.org/wiki/Netpbm_format
+.pcf,application/x-font-pcf,Portable Compiled Format,http://en.wikipedia.org/wiki/Portable_Compiled_Format
+.pcl,application/vnd.hp-pcl,HP Printer Command Language,http://www.iana.org/assignments/media-types/application/vnd.hp-PCL
+.pcl,application/x-pcl,,
+.pclxl,application/vnd.hp-pclxl,PCL 6 Enhanced (Formely PCL XL),http://www.iana.org/assignments/media-types/application/vnd.hp-PCLXL
+.pct,image/x-pict,,
+.pcurl,application/vnd.curl.pcurl,CURL Applet,http://www.iana.org/assignments/media-types/application/vnd.curl.pcurl
+.pcx,image/x-pcx,PCX Image,http://en.wikipedia.org/wiki/PCX
+.pdb,application/vnd.palm,PalmOS Data,http://www.iana.org/assignments/media-types/application/vnd.palm
+.pdb,chemical/x-pdb,,
+.pdf,application/pdf,Adobe Portable Document Format,http://www.adobe.com/products/acrobat/adobepdf.html
+.pfa,application/x-font-type1,PostScript Fonts,http://en.wikipedia.org/wiki/PostScript_fonts
+.pfr,application/font-tdpfr,Portable Font Resource,http://tools.ietf.org/html/rfc3073
+.pfunk,audio/make,,
+.pfunk,audio/make.my.funk,,
+.pfx,application/x-pkcs12,,
+.pgm,image/x-portable-graymap,Portable Graymap Format,http://en.wikipedia.org/wiki/Netpbm_format
+.pgm,image/x-portable-greymap,,
+.pgn,application/x-chess-pgn,Portable Game Notation (Chess Games),http://en.wikipedia.org/wiki/Portable_Game_Notation
+.pgp,application/pgp-encrypted,Pretty Good Privacy,http://en.wikipedia.org/wiki/Pretty_Good_Privacy
+.pgp,application/pgp-signature,Pretty Good Privacy - Signature,http://www.ietf.org/rfc/rfc2015.txt
+.pic,image/pict,,
+.pic,image/x-pict,PICT Image,http://en.wikipedia.org/wiki/PICT
+.pict,image/pict,,
+.pjpeg,image/pjpeg,JPEG Image (Progressive),http://www.faqs.org/faqs/jpeg-faq/part1/section-11.html
+.pkg,application/x-newton-compatible-pkg,,
+.pki,application/pkixcmp,Internet Public Key Infrastructure - Certificate Management Protocole,http://www.ietf.org/rfc/rfc2585.txt
+.pkipath,application/pkix-pkipath,Internet Public Key Infrastructure - Certification Path,http://www.ietf.org/rfc/rfc2585.txt
+.pko,application/vnd.ms-pki.pko,,
+.pko,application/ynd.ms-pkipko,,
+.pl,text/plain,,
+.pl,text/x-script.perl,,
+.plb,application/vnd.3gpp.pic-bw-large,3rd Generation Partnership Project - Pic Large,http://www.3gpp.org/specifications
+.plc,application/vnd.mobius.plc,Mobius Management Systems - Policy Definition Language File,http://www.iana.org/assignments/media-types/application/vnd.mobius.plc
+.plf,application/vnd.pocketlearn,PocketLearn Viewers,http://www.iana.org/assignments/media-types/application/vnd.pocketlearn
+.pls,application/pls+xml,Pronunciation Lexicon Specification,http://www.rfc-editor.org/rfc/rfc4267.txt
+.plx,application/x-pixclscript,,
+.pm,image/x-xpixmap,,
+.pm,text/x-script.perl-module,,
+.pm4,application/x-pagemaker,,
+.pm5,application/x-pagemaker,,
+.pma,application/x-perfmon,,
+.pmc,application/x-perfmon,,
+.pml,application/vnd.ctc-posml,PosML,http://www.iana.org/assignments/media-types/application/vnd.ctc-posml
+.pml,application/x-perfmon,,
+.pmr,application/x-perfmon,,
+.pmw,application/x-perfmon,,
+.png,image/png,Portable Network Graphics (PNG),http://tools.ietf.org/html/rfc2083
+.png,image/x-citrix-png,Portable Network Graphics (PNG) (Citrix client),http://tools.ietf.org/html/rfc2083
+.png,image/x-png,Portable Network Graphics (PNG) (x-token),http://tools.ietf.org/html/rfc2083
+.pnm,application/x-portable-anymap,,
+.pnm,image/x-portable-anymap,Portable Anymap Image,http://en.wikipedia.org/wiki/Netpbm_format
+.portpkg,application/vnd.macports.portpkg,MacPorts Port System,http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg
+.pot,application/mspowerpoint,,
+.pot,application/vnd.ms-powerpoint,,
+.potm,application/vnd.ms-powerpoint.template.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Template File,http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.template.macroEnabled.12
+.potx,application/vnd.openxmlformats-officedocument.presentationml.template,Microsoft Office - OOXML - Presentation Template,http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.template
+.pov,model/x-pov,,
+.ppa,application/vnd.ms-powerpoint,,
+.ppam,application/vnd.ms-powerpoint.addin.macroenabled.12,Microsoft PowerPoint - Add-in file,http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.addin.macroEnabled.12
+.ppd,application/vnd.cups-ppd,Adobe PostScript Printer Description File Format,http://www.iana.org/assignments/media-types/application/vnd.cups-ppd
+.ppm,image/x-portable-pixmap,Portable Pixmap Format,http://en.wikipedia.org/wiki/Netpbm_format
+.pps,application/mspowerpoint,,
+.pps,application/vnd.ms-powerpoint,,
+.ppsm,application/vnd.ms-powerpoint.slideshow.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Slide Show File,http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slideshow.macroEnabled.12
+.ppsx,application/vnd.openxmlformats-officedocument.presentationml.slideshow,Microsoft Office - OOXML - Presentation (Slideshow),http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideshow
+.ppt,application/mspowerpoint,,
+.ppt,application/powerpoint,,
+.ppt,application/vnd.ms-powerpoint,Microsoft PowerPoint,http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint
+.ppt,application/x-mspowerpoint,,
+.pptm,application/vnd.ms-powerpoint.presentation.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Presentation File,http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.presentation.macroEnabled.12
+.pptx,application/vnd.openxmlformats-officedocument.presentationml.presentation,Microsoft Office - OOXML - Presentation,http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presentation
+.ppz,application/mspowerpoint,,
+.prc,application/x-mobipocket-ebook,Mobipocket,http://en.wikipedia.org/wiki/Mobipocket
+.pre,application/vnd.lotus-freelance,Lotus Freelance,http://www.iana.org/assignments/media-types/application/vnd.lotus-freelance
+.pre,application/x-freelance,,
+.prf,application/pics-rules,PICSRules,http://www.w3.org/TR/REC-PICSRules/
+.prt,application/pro_eng,,
+.ps,application/postscript,,
+.psb,application/vnd.3gpp.pic-bw-small,3rd Generation Partnership Project - Pic Small,http://www.3gpp.org/specifications
+.psd,application/octet-stream,,
+.psd,image/vnd.adobe.photoshop,Photoshop Document,http://en.wikipedia.org/wiki/Adobe_Photoshop#Features
+.psf,application/x-font-linux-psf,PSF Fonts,http://www.win.tue.nl/~aeb/linux/kbd/font-formats-1.html
+.pskcxml,application/pskc+xml,Portable Symmetric Key Container,http://tools.ietf.org/html/rfc6030
+.ptid,application/vnd.pvi.ptid1,Princeton Video Image,http://www.iana.org/assignments/media-types/application/vnd.pvi.ptid1
+.pub,application/x-mspublisher,Microsoft Publisher,http://en.wikipedia.org/wiki/Microsoft_Publisher
+.pvb,application/vnd.3gpp.pic-bw-var,3rd Generation Partnership Project - Pic Var,http://www.3gpp.org/specifications
+.pvu,paleovu/x-pv,,
+.pwn,application/vnd.3m.post-it-notes,3M Post It Notes,http://www.iana.org/assignments/media-types/application/vnd.3M.Post-it-Notes
+.pwz,application/vnd.ms-powerpoint,,
+.py,text/x-script.phyton,,
+.pya,audio/vnd.ms-playready.media.pya,Microsoft PlayReady Ecosystem,http://www.iana.org/assignments/media-types/audio/vnd.ms-playready.media.pya
+.pyc,application/x-bytecode.python,,
+.pyv,video/vnd.ms-playready.media.pyv,Microsoft PlayReady Ecosystem Video,http://www.iana.org/assignments/media-types/video/vnd.ms-playready.media.pyv
+.qam,application/vnd.epson.quickanime,QuickAnime Player,http://www.iana.org/assignments/media-types/application/vnd.epson.quickanime
+.qbo,application/vnd.intu.qbo,Open Financial Exchange,http://www.iana.org/assignments/media-types/application/vnd.intu.qbo
+.qcp,audio/vnd.qcelp,,
+.qd3,x-world/x-3dmf,,
+.qd3d,x-world/x-3dmf,,
+.qfx,application/vnd.intu.qfx,Quicken,http://www.iana.org/assignments/media-types/application/vnd.intu.qfx
+.qif,image/x-quicktime,,
+.qps,application/vnd.publishare-delta-tree,PubliShare Objects,http://www.iana.org/assignments/media-types/application/vnd.publishare-delta-tree
+.qt,video/quicktime,Quicktime Video,http://en.wikipedia.org/wiki/Quicktime
+.qtc,video/x-qtc,,
+.qti,image/x-quicktime,,
+.qtif,image/x-quicktime,,
+.qxd,application/vnd.quark.quarkxpress,QuarkXpress,http://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress
+.ra,audio/x-pn-realaudio,,
+.ra,audio/x-pn-realaudio-plugin,,
+.ra,audio/x-realaudio,,
+.ram,audio/x-pn-realaudio,Real Audio Sound,http://en.wikipedia.org/wiki/RealPlayer
+.rar,application/x-rar-compressed,RAR Archive,http://en.wikipedia.org/wiki/Rar
+.ras,application/x-cmu-raster,,
+.ras,image/cmu-raster,,
+.ras,image/x-cmu-raster,CMU Image,
+.rast,image/cmu-raster,,
+.rcprofile,application/vnd.ipunplugged.rcprofile,IP Unplugged Roaming Client,http://www.iana.org/assignments/media-types/application/vnd.ipunplugged.rcprofile
+.rdf,application/rdf+xml,Resource Description Framework,http://www.ietf.org/rfc/rfc3870.txt
+.rdz,application/vnd.data-vision.rdz,RemoteDocs R-Viewer,http://www.iana.org/assignments/media-types/application/vnd.data-vision.rdz
+.rep,application/vnd.businessobjects,BusinessObjects,http://www.iana.org/assignments/media-types/application/vnd.businessobjects
+.res,application/x-dtbresource+xml,Digital Talking Book - Resource File,http://www.daisy.org/z3986/2005/Z3986-2005.html
+.rexx,text/x-script.rexx,,
+.rf,image/vnd.rn-realflash,,
+.rgb,image/x-rgb,Silicon Graphics RGB Bitmap,http://www.fileformat.info/format/sgiimage/egff.htm
+.rif,application/reginfo+xml,IMS Networks,
+.rip,audio/vnd.rip,Hit'n'Mix,http://www.iana.org/assignments/media-types/audio/vnd.rip
+.rl,application/resource-lists+xml,XML Resource Lists,http://www.rfc-editor.org/rfc/rfc4826.txt
+.rlc,image/vnd.fujixerox.edmics-rlc,EDMICS 2000,http://www.ietf.org/assignments/media-types/image/vnd.fujixerox.edmics-rlc
+.rld,application/resource-lists-diff+xml,XML Resource Lists Diff,http://www.rfc-editor.org/rfc/rfc4826.txt
+.rm,application/vnd.rn-realmedia,RealMedia,
+.rm,audio/x-pn-realaudio,,
+.rmi,audio/mid,,
+.rmm,audio/x-pn-realaudio,,
+.rmp,audio/x-pn-realaudio,,
+.rmp,audio/x-pn-realaudio-plugin,Real Audio Sound,http://en.wikipedia.org/wiki/RealPlayer
+.rms,application/vnd.jcp.javame.midlet-rms,Mobile Information Device Profile,http://www.iana.org/assignments/media-types/application/vnd.jcp.javame.midlet-rms
+.rnc,application/relax-ng-compact-syntax,Relax NG Compact Syntax,http://relaxng.org/
+.rng,application/ringing-tones,,
+.rng,application/vnd.nokia.ringing-tone,,
+.rnx,application/vnd.rn-realplayer,,
+.roff,application/x-troff,,
+.rp,image/vnd.rn-realpix,,
+.rp9,application/vnd.cloanto.rp9,RetroPlatform Player,http://www.iana.org/assignments/media-types/application/vnd.cloanto.rp9
+.rpm,audio/x-pn-realaudio-plugin,,
+.rpss,application/vnd.nokia.radio-presets,Nokia Radio Application - Preset,http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-presets
+.rpst,application/vnd.nokia.radio-preset,Nokia Radio Application - Preset,http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-preset
+.rq,application/sparql-query,SPARQL - Query,http://www.w3.org/TR/2006/CR-rdf-sparql-XMLres-20060406/
+.rs,application/rls-services+xml,XML Resource Lists,http://www.rfc-editor.org/rfc/rfc4826.txt
+.rsd,application/rsd+xml,Really Simple Discovery,http://en.wikipedia.org/wiki/Really_Simple_Discovery
+.rss,application/rss+xml,RSS - Really Simple Syndication,http://en.wikipedia.org/wiki/RSS
+.rt,text/richtext,,
+.rt,text/vnd.rn-realtext,,
+.rtf,application/rtf,Rich Text Format,http://en.wikipedia.org/wiki/Rich_Text_Format
+.rtf,application/x-rtf,,
+.rtf,text/richtext,,
+.rtx,application/rtf,,
+.rtx,text/richtext,Rich Text Format (RTF),http://en.wikipedia.org/wiki/Rich_Text_Format
+.rv,video/vnd.rn-realvideo,,
+.s,text/x-asm,Assembler Source File,http://en.wikipedia.org/wiki/Assembly_language
+.s3m,audio/s3m,,
+.saf,application/vnd.yamaha.smaf-audio,SMAF Audio,http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-audio
+.saveme,application/octet-stream,,
+.sbk,application/x-tbook,,
+.sbml,application/sbml+xml,Systems Biology Markup Language,http://www.rfc-editor.org/rfc/rfc3823.txt
+.sc,application/vnd.ibm.secure-container,IBM Electronic Media Management System - Secure Container,http://www.iana.org/assignments/media-types/application/vnd.ibm.secure-container
+.scd,application/x-msschedule,Microsoft Schedule+,http://en.wikipedia.org/wiki/Microsoft_Schedule_Plus
+.scm,application/vnd.lotus-screencam,Lotus Screencam,http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam
+.scm,application/x-lotusscreencam,,
+.scm,text/x-script.guile,,
+.scm,text/x-script.scheme,,
+.scm,video/x-scm,,
+.scq,application/scvp-cv-request,Server-Based Certificate Validation Protocol - Validation Request,http://www.rfc-editor.org/rfc/rfc5055.txt
+.scs,application/scvp-cv-response,Server-Based Certificate Validation Protocol - Validation Response,http://www.rfc-editor.org/rfc/rfc5055.txt
+.sct,text/scriptlet,,
+.scurl,text/vnd.curl.scurl,Curl - Source Code,http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html
+.sda,application/vnd.stardivision.draw,StarOffice - Draw,
+.sdc,application/vnd.stardivision.calc,StarOffice - Calc,
+.sdd,application/vnd.stardivision.impress,StarOffice - Impress,
+.sdkm,application/vnd.solent.sdkm+xml,SudokuMagic,http://www.iana.org/assignments/media-types/application/vnd.solent.sdkm+xml
+.sdml,text/plain,,
+.sdp,application/sdp,Session Description Protocol,http://www.ietf.org/rfc/rfc2327.txt
+.sdp,application/x-sdp,,
+.sdr,application/sounder,,
+.sdw,application/vnd.stardivision.writer,StarOffice - Writer,
+.sea,application/sea,,
+.sea,application/x-sea,,
+.see,application/vnd.seemail,SeeMail,http://www.iana.org/assignments/media-types/application/vnd.seemail
+.seed,application/vnd.fdsn.seed,Digital Siesmograph Networks - SEED Datafiles,http://www.iana.org/assignments/media-types/application/vnd.fdsn.seed
+.sema,application/vnd.sema,Secured eMail,http://www.iana.org/assignments/media-types/application/vnd.sema
+.semd,application/vnd.semd,Secured eMail,http://www.iana.org/assignments/media-types/application/vnd.semd
+.semf,application/vnd.semf,Secured eMail,http://www.iana.org/assignments/media-types/application/vnd.semf
+.ser,application/java-serialized-object,Java Serialized Object,http://java.sun.com/developer/technicalArticles/Programming/serialization/
+.set,application/set,,
+.setpay,application/set-payment-initiation,Secure Electronic Transaction - Payment,http://www.iana.org/assignments/media-types/application/set-payment-initiation
+.setreg,application/set-registration-initiation,Secure Electronic Transaction - Registration,http://www.iana.org/assignments/media-types/application/set-registration-initiation
+.sfd-hdstx,application/vnd.hydrostatix.sof-data,Hydrostatix Master Suite,http://www.iana.org/assignments/media-types/application/vnd.hydrostatix.sof-data
+.sfs,application/vnd.spotfire.sfs,TIBCO Spotfire,http://www.iana.org/assignments/media-types/application/vnd.spotfire.sfs
+.sgl,application/vnd.stardivision.writer-global,StarOffice - Writer  (Global),
+.sgm,text/sgml,,
+.sgm,text/x-sgml,,
+.sgml,text/sgml,Standard Generalized Markup Language (SGML),http://en.wikipedia.org/wiki/Sgml
+.sgml,text/x-sgml,,
+.sh,application/x-bsh,,
+.sh,application/x-sh,Bourne Shell Script,http://en.wikipedia.org/wiki/Bourne_shell
+.sh,application/x-shar,,
+.sh,text/x-script.sh,,
+.shar,application/x-bsh,,
+.shar,application/x-shar,Shell Archive,http://en.wikipedia.org/wiki/Shar
+.shf,application/shf+xml,S Hexdump Format,http://www.rfc-editor.org/rfc/rfc4194.txt
+.shtml,text/html,,
+.shtml,text/x-server-parsed-html,,
+.sid,audio/x-psid,,
+.sis,application/vnd.symbian.install,Symbian Install Package,http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.symbian.install
+.sit,application/x-sit,,
+.sit,application/x-stuffit,Stuffit Archive,http://en.wikipedia.org/wiki/Stuffit
+.sitx,application/x-stuffitx,Stuffit Archive,http://en.wikipedia.org/wiki/Stuffit
+.skd,application/x-koan,,
+.skm,application/x-koan,,
+.skp,application/vnd.koan,SSEYO Koan Play File,http://www.iana.org/assignments/media-types/application/vnd.koan
+.skp,application/x-koan,,
+.skt,application/x-koan,,
+.sl,application/x-seelogo,,
+.sldm,application/vnd.ms-powerpoint.slide.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Open XML Slide,http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slide.macroEnabled.12
+.sldx,application/vnd.openxmlformats-officedocument.presentationml.slide,Microsoft Office - OOXML - Presentation (Slide),http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slide
+.slt,application/vnd.epson.salt,SimpleAnimeLite Player,http://www.iana.org/assignments/media-types/application/vnd.epson.salt
+.sm,application/vnd.stepmania.stepchart,StepMania,http://www.iana.org/assignments/media-types/application/vnd.stepmania.stepchart
+.smf,application/vnd.stardivision.math,StarOffice - Math,
+.smi,application/smil,,
+.smi,application/smil+xml,Synchronized Multimedia Integration Language,http://tools.ietf.org/html/rfc4536
+.smil,application/smil,,
+.snd,audio/basic,,
+.snd,audio/x-adpcm,,
+.snf,application/x-font-snf,Server Normal Format,http://en.wikipedia.org/wiki/Server_Normal_Format
+.sol,application/solids,,
+.spc,application/x-pkcs7-certificates,,
+.spc,text/x-speech,,
+.spf,application/vnd.yamaha.smaf-phrase,SMAF Phrase,http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-phrase
+.spl,application/futuresplash,,
+.spl,application/x-futuresplash,FutureSplash Animator,http://en.wikipedia.org/wiki/FutureSplash_Animator
+.spot,text/vnd.in3d.spot,In3D - 3DML,http://www.iana.org/assignments/media-types/text/vnd.in3d.spot
+.spp,application/scvp-vp-response,Server-Based Certificate Validation Protocol - Validation Policies - Response,http://www.rfc-editor.org/rfc/rfc5055.txt
+.spq,application/scvp-vp-request,Server-Based Certificate Validation Protocol - Validation Policies - Request,http://www.rfc-editor.org/rfc/rfc5055.txt
+.spr,application/x-sprite,,
+.sprite,application/x-sprite,,
+.src,application/x-wais-source,WAIS Source,http://www.yolinux.com/TUTORIALS/notes_wais.html
+.sru,application/sru+xml,Search/Retrieve via URL Response Format,http://tools.ietf.org/html/rfc6207
+.srx,application/sparql-results+xml,SPARQL - Results,http://www.w3.org/TR/2006/CR-rdf-sparql-XMLres-20060406/
+.sse,application/vnd.kodak-descriptor,Kodak Storyshare,http://www.iana.org/assignments/media-types/application/vnd.kodak-descriptor
+.ssf,application/vnd.epson.ssf,QUASS Stream Player,http://www.iana.org/assignments/media-types/application/vnd.epson.ssf
+.ssi,text/x-server-parsed-html,,
+.ssm,application/streamingmedia,,
+.ssml,application/ssml+xml,Speech Synthesis Markup Language,http://www.w3.org/TR/speech-synthesis/
+.sst,application/vnd.ms-pki.certstore,,
+.sst,application/vnd.ms-pkicertstore,,
+.st,application/vnd.sailingtracker.track,SailingTracker,http://www.iana.org/assignments/media-types/application/vnd.sailingtracker.track
+.stc,application/vnd.sun.xml.calc.template,OpenOffice - Calc Template (Spreadsheet),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.std,application/vnd.sun.xml.draw.template,OpenOffice - Draw Template (Graphics),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.step,application/step,,
+.stf,application/vnd.wt.stf,Worldtalk,http://www.iana.org/assignments/media-types/application/vnd.wt.stf
+.sti,application/vnd.sun.xml.impress.template,OpenOffice - Impress Template (Presentation),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.stk,application/hyperstudio,Hyperstudio,http://www.iana.org/assignments/media-types/application/hyperstudio
+.stl,application/sla,,
+.stl,application/vnd.ms-pki.stl,Microsoft Trust UI Provider - Certificate Trust Link,http://www.iana.org/assignments/media-types/application/vnd.ms-pki.stl
+.stl,application/vnd.ms-pkistl,,
+.stl,application/x-navistyle,,
+.stm,text/html,,
+.stp,application/step,,
+.str,application/vnd.pg.format,Proprietary P&G Standard Reporting System,http://www.iana.org/assignments/media-types/application/vnd.pg.format
+.stw,application/vnd.sun.xml.writer.template,OpenOffice - Writer Template (Text - HTML),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.sub,image/vnd.dvb.subtitle,Close Captioning - Subtitle,http://en.wikipedia.org/wiki/Closed_captioning
+.sus,application/vnd.sus-calendar,ScheduleUs,http://www.iana.org/assignments/media-types/application/vnd.sus-calendar
+.sv4cpio,application/x-sv4cpio,System V Release 4 CPIO Archive,http://en.wikipedia.org/wiki/Pax_%28Unix%29
+.sv4crc,application/x-sv4crc,System V Release 4 CPIO Checksum Data,http://en.wikipedia.org/wiki/Pax_%28Unix%29
+.svc,application/vnd.dvb.service,Digital Video Broadcasting,http://www.iana.org/assignments/media-types/application/vnd.dvb.svc
+.svd,application/vnd.svd,SourceView Document,http://www.iana.org/assignments/media-types/application/vnd.svd
+.svf,image/vnd.dwg,,
+.svf,image/x-dwg,,
+.svg,image/svg+xml,Scalable Vector Graphics (SVG),http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+.svr,application/x-world,,
+.svr,x-world/x-svr,,
+.swf,application/x-shockwave-flash,Adobe Flash,http://en.wikipedia.org/wiki/Swf
+.swi,application/vnd.aristanetworks.swi,Arista Networks Software Image,http://www.iana.org/assignments/media-types/application/vnd.aristanetworks.swi
+.sxc,application/vnd.sun.xml.calc,OpenOffice - Calc (Spreadsheet),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.sxd,application/vnd.sun.xml.draw,OpenOffice - Draw (Graphics),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.sxg,application/vnd.sun.xml.writer.global,OpenOffice - Writer (Text - HTML),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.sxi,application/vnd.sun.xml.impress,OpenOffice - Impress (Presentation),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.sxm,application/vnd.sun.xml.math,OpenOffice - Math (Formula),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.sxw,application/vnd.sun.xml.writer,OpenOffice - Writer (Text - HTML),http://en.wikipedia.org/wiki/OpenOffice.org_XML
+.t,application/x-troff,,
+.t,text/troff,troff,http://en.wikipedia.org/wiki/Troff
+.talk,text/x-speech,,
+.tao,application/vnd.tao.intent-module-archive,Tao Intent,http://www.iana.org/assignments/media-types/application/vnd.tao.intent-module-archive
+.tar,application/x-tar,Tar File (Tape Archive),http://en.wikipedia.org/wiki/Tar_file
+.tbk,application/toolbook,,
+.tbk,application/x-tbook,,
+.tcap,application/vnd.3gpp2.tcap,3rd Generation Partnership Project - Transaction Capabilities Application Part,http://www.3gpp.org/specifications
+.tcl,application/x-tcl,Tcl Script,http://en.wikipedia.org/wiki/Tcl
+.tcl,text/x-script.tcl,,
+.tcsh,text/x-script.tcsh,,
+.teacher,application/vnd.smart.teacher,SMART Technologies Apps,http://www.iana.org/assignments/media-types/application/vnd.smart.teacher
+.tei,application/tei+xml,Text Encoding and Interchange,http://tools.ietf.org/html/rfc6129
+.tex,application/x-tex,TeX,http://en.wikipedia.org/wiki/TeX
+.texi,application/x-texinfo,,
+.texinfo,application/x-texinfo,GNU Texinfo Document,http://en.wikipedia.org/wiki/Texinfo
+.text,application/plain,,
+.text,text/plain,,
+.tfi,application/thraud+xml,Sharing Transaction Fraud Data,http://tools.ietf.org/html/rfc5941
+.tfm,application/x-tex-tfm,TeX Font Metric,http://en.wikipedia.org/wiki/TeX_font_metric
+.tgz,application/gnutar,,
+.tgz,application/x-compressed,,
+.thmx,application/vnd.ms-officetheme,Microsoft Office System Release Theme,http://www.iana.org/assignments/media-types/application/vnd.ms-officetheme
+.tif,image/tiff,,
+.tif,image/x-tiff,,
+.tiff,image/tiff,Tagged Image File Format,http://en.wikipedia.org/wiki/Tagged_Image_File_Format
+.tiff,image/x-tiff,,
+.tmo,application/vnd.tmobile-livetv,MobileTV,http://www.iana.org/assignments/media-types/application/vnd.tmobile-livetv
+.torrent,application/x-bittorrent,BitTorrent,http://en.wikipedia.org/wiki/BitTorrent_%28protocol%29
+.tpl,application/vnd.groove-tool-template,Groove - Tool Template,http://www.iana.org/assignments/media-types/application/vnd.groove-tool-template
+.tpt,application/vnd.trid.tpt,TRI Systems Config,http://www.iana.org/assignments/media-types/application/vnd.trid.tpt
+.tr,application/x-troff,,
+.tra,application/vnd.trueapp,True BASIC,http://www.iana.org/assignments/media-types/application/vnd.trueapp
+.trm,application/x-msterminal,Microsoft Windows Terminal Services,http://en.wikipedia.org/wiki/Remote_Desktop_Services#Terminal_Server
+.tsd,application/timestamped-data,Time Stamped Data Envelope,http://tools.ietf.org/html/rfc5955
+.tsi,audio/tsp-audio,,
+.tsp,application/dsptype,,
+.tsp,audio/tsplayer,,
+.tsv,text/tab-separated-values,Tab Seperated Values,http://en.wikipedia.org/wiki/Tab-separated_values
+.ttf,application/x-font-ttf,TrueType Font,http://en.wikipedia.org/wiki/TrueType
+.ttl,text/turtle,Turtle (Terse RDF Triple Language),http://en.wikipedia.org/wiki/Turtle_%28syntax%29
+.turbot,image/florian,,
+.twd,application/vnd.simtech-mindmapper,SimTech MindMapper,http://www.iana.org/assignments/media-types/application/vnd.SimTech-MindMapper
+.txd,application/vnd.genomatix.tuxedo,Genomatix Tuxedo Framework,http://www.iana.org/assignments/media-types/application/vnd.genomatix.tuxedo
+.txf,application/vnd.mobius.txf,Mobius Management Systems - Topic Index File,http://www.iana.org/assignments/media-types/application/vnd.mobius.txf
+.txt,text/plain,Text File,http://en.wikipedia.org/wiki/Text_file
+.ufd,application/vnd.ufdl,Universal Forms Description Language,http://www.iana.org/assignments/media-types/application/vnd.ufdl
+.uil,text/x-uil,,
+.uls,text/iuls,,
+.umj,application/vnd.umajin,UMAJIN,http://www.iana.org/assignments/media-types/application/vnd.umajin
+.uni,text/uri-list,,
+.unis,text/uri-list,,
+.unityweb,application/vnd.unity,Unity 3d,http://www.iana.org/assignments/media-types/application/vnd.unity
+.unv,application/i-deas,,
+.uoml,application/vnd.uoml+xml,Unique Object Markup Language,http://www.iana.org/assignments/media-types/application/vnd.uoml+xml
+.uri,text/uri-list,URI Resolution Services,http://tools.ietf.org/html/rfc2483
+.uris,text/uri-list,,
+.ustar,application/x-ustar,Ustar (Uniform Standard Tape Archive),http://en.wikipedia.org/wiki/Ustar#UStar_format
+.ustar,multipart/x-ustar,,
+.utz,application/vnd.uiq.theme,User Interface Quartz - Theme (Symbian),http://www.iana.org/assignments/media-types/application/vnd.uiq.theme
+.uu,application/octet-stream,,
+.uu,text/x-uuencode,UUEncode,http://en.wikipedia.org/wiki/Uuencode
+.uue,text/x-uuencode,,
+.uva,audio/vnd.dece.audio,DECE Audio,http://www.iana.org/assignments/media-types/audio/vnd.dece.audio
+.uvh,video/vnd.dece.hd,DECE High Definition Video,http://www.iana.org/assignments/media-types/video/vnd.dece.hd
+.uvi,image/vnd.dece.graphic,DECE Graphic,http://www.iana.org/assignments/media-types/image/vnd.dece.graphic
+.uvm,video/vnd.dece.mobile,DECE Mobile Video,http://www.iana.org/assignments/media-types/video/vnd.dece.mobile
+.uvp,video/vnd.dece.pd,DECE PD Video,http://www.iana.org/assignments/media-types/video/vnd.dece.pd
+.uvs,video/vnd.dece.sd,DECE SD Video,http://www.iana.org/assignments/media-types/video/vnd.dece.sd
+.uvu,video/vnd.uvvu.mp4,DECE MP4,http://www.iana.org/assignments/media-types/video/vnd.uvvu-mp4
+.uvv,video/vnd.dece.video,DECE Video,http://www.iana.org/assignments/media-types/video/vnd.dece.video
+.vcd,application/x-cdlink,Video CD,http://en.wikipedia.org/wiki/Video_CD
+.vcf,text/x-vcard,vCard,http://en.wikipedia.org/wiki/Vcard
+.vcg,application/vnd.groove-vcard,Groove - Vcard,http://www.iana.org/assignments/media-types/application/vnd.groove-vcard
+.vcs,text/x-vcalendar,vCalendar,http://en.wikipedia.org/wiki/VCalendar#vCalendar_1.0
+.vcx,application/vnd.vcx,VirtualCatalog,http://www.iana.org/assignments/media-types/application/vnd.vcx
+.vda,application/vda,,
+.vdo,video/vdo,,
+.vew,application/groupwise,,
+.vis,application/vnd.visionary,Visionary,http://www.iana.org/assignments/media-types/application/vnd.visionary
+.viv,video/vivo,,
+.viv,video/vnd.vivo,Vivo,http://www.iana.org/assignments/media-types/video/vnd-vivo
+.vivo,video/vivo,,
+.vivo,video/vnd.vivo,,
+.vmd,application/vocaltec-media-desc,,
+.vmf,application/vocaltec-media-file,,
+.voc,audio/voc,,
+.voc,audio/x-voc,,
+.vos,video/vosaic,,
+.vox,audio/voxware,,
+.vqe,audio/x-twinvq-plugin,,
+.vqf,audio/x-twinvq,,
+.vql,audio/x-twinvq-plugin,,
+.vrml,application/x-vrml,,
+.vrml,model/vrml,,
+.vrml,x-world/x-vrml,,
+.vrt,x-world/x-vrt,,
+.vsd,application/vnd.visio,Microsoft Visio,http://www.iana.org/assignments/media-types/application/vnd.visio
+.vsd,application/x-visio,,
+.vsdx,application/vnd.visio2013,Microsoft Visio 2013,http://www.iana.org/assignments/media-types/application/vnd.visio
+.vsf,application/vnd.vsf,Viewport+,http://www.iana.org/assignments/media-types/application/vnd.vsf
+.vst,application/x-visio,,
+.vsw,application/x-visio,,
+.vtu,model/vnd.vtu,Virtue VTU,http://www.iana.org/assignments/media-types/model/vnd.vtu
+.vxml,application/voicexml+xml,VoiceXML,http://tools.ietf.org/html/rfc4267
+.w60,application/wordperfect6.0,,
+.w61,application/wordperfect6.1,,
+.w6w,application/msword,,
+.wad,application/x-doom,Doom Video Game,http://en.wikipedia.org/wiki/Doom_wad
+.wav,audio/wav,,
+.wav,audio/x-wav,Waveform Audio File Format (WAV),http://en.wikipedia.org/wiki/Wav
+.wax,audio/x-ms-wax,Microsoft Windows Media Audio Redirector,http://www.microsoft.com/windows/windowsmedia/howto/articles/introwmmeta.aspx
+.wb1,application/x-qpro,,
+.wbmp,image/vnd.wap.wbmp,WAP Bitamp (WBMP),http://www.iana.org/assignments/media-types/image/vnd-wap-wbmp
+.wbs,application/vnd.criticaltools.wbs+xml,Critical Tools - PERT Chart EXPERT,http://www.iana.org/assignments/media-types/application/vnd.criticaltools.wbs+xml
+.wbxml,application/vnd.wap.wbxml,WAP Binary XML (WBXML),http://www.iana.org/assignments/media-types/application/vnd.wap-wbxml
+.wcm,application/vnd.ms-works,,
+.wdb,application/vnd.ms-works,,
+.web,application/vnd.xara,,
+.weba,audio/webm,Open Web Media Project - Audio,http://www.webmproject.org/about/faq/
+.webm,video/webm,Open Web Media Project - Video,http://www.webmproject.org/about/faq/
+.webp,image/webp,WebP Image,http://en.wikipedia.org/wiki/WebP
+.wg,application/vnd.pmi.widget,Qualcomm's Plaza Mobile Internet,http://www.iana.org/assignments/media-types/application/vnd.pmi.widget
+.wgt,application/widget,Widget Packaging and XML Configuration,http://www.w3.org/TR/widgets/#media-type-registration-for-applicationw
+.wiz,application/msword,,
+.wk1,application/x-123,,
+.wks,application/vnd.ms-works,,
+.wm,video/x-ms-wm,Microsoft Windows Media,http://en.wikipedia.org/wiki/Advanced_Systems_Format
+.wma,audio/x-ms-wma,Microsoft Windows Media Audio,http://en.wikipedia.org/wiki/Windows_Media_Audio
+.wmd,application/x-ms-wmd,Microsoft Windows Media Player Download Package,http://en.wikipedia.org/wiki/Windows_Media_Player
+.wmf,application/x-msmetafile,Microsoft Windows Metafile,http://en.wikipedia.org/wiki/Windows_Metafile
+.wmf,windows/metafile,,
+.wml,text/vnd.wap.wml,Wireless Markup Language (WML),http://en.wikipedia.org/wiki/Wireless_Markup_Language
+.wmlc,application/vnd.wap.wmlc,Compiled Wireless Markup Language (WMLC),http://www.iana.org/assignments/media-types/application/vnd-wap-wmlc
+.wmls,text/vnd.wap.wmlscript,Wireless Markup Language Script (WMLScript),http://en.wikipedia.org/wiki/WMLScript
+.wmlsc,application/vnd.wap.wmlscriptc,WMLScript,http://www.iana.org/assignments/media-types/application/vnd.wap.wmlscriptc
+.wmv,video/x-ms-wmv,Microsoft Windows Media Video,http://en.wikipedia.org/wiki/Advanced_Systems_Format
+.wmx,video/x-ms-wmx,Microsoft Windows Media Audio/Video Playlist,http://en.wikipedia.org/wiki/Advanced_Systems_Format
+.wmz,application/x-ms-wmz,Microsoft Windows Media Player Skin Package,http://en.wikipedia.org/wiki/Windows_Media_Player
+.woff,application/x-font-woff,Web Open Font Format,http://en.wikipedia.org/wiki/Woff
+.word,application/msword,,
+.wp,application/wordperfect,,
+.wp5,application/wordperfect,,
+.wp5,application/wordperfect6.0,,
+.wp6,application/wordperfect,,
+.wpd,application/vnd.wordperfect,Wordperfect,http://www.iana.org/assignments/media-types/application/vnd.wordperfect
+.wpd,application/wordperfect,,
+.wpd,application/x-wpwin,,
+.wpl,application/vnd.ms-wpl,Microsoft Windows Media Player Playlist,http://www.iana.org/assignments/media-types/application/vnd.ms-wpl
+.wps,application/vnd.ms-works,Microsoft Works,http://www.iana.org/assignments/media-types/application/vnd.ms-works
+.wq1,application/x-lotus,,
+.wqd,application/vnd.wqd,SundaHus WQ,http://www.iana.org/assignments/media-types/application/vnd.wqd
+.wri,application/mswrite,,
+.wri,application/x-mswrite,Microsoft Wordpad,http://en.wikipedia.org/wiki/Wordpad
+.wri,application/x-wri,,
+.wrl,application/x-world,,
+.wrl,model/vrml,Virtual Reality Modeling Language,http://en.wikipedia.org/wiki/VRML
+.wrl,x-world/x-vrml,,
+.wrz,model/vrml,,
+.wrz,x-world/x-vrml,,
+.wsc,text/scriplet,,
+.wsdl,application/wsdl+xml,WSDL - Web Services Description Language,http://www.iana.org/assignments/media-types/application/wsdl+xml
+.wspolicy,application/wspolicy+xml,Web Services Policy,http://www.w3.org/Submission/WS-Policy/
+.wsrc,application/x-wais-source,,
+.wtb,application/vnd.webturbo,WebTurbo,http://www.iana.org/assignments/media-types/application/vnd.webturbo
+.wtk,application/x-wintalk,,
+.wvx,video/x-ms-wvx,Microsoft Windows Media Video Playlist,http://en.wikipedia.org/wiki/Advanced_Systems_Format
+.x-png,image/png,,
+.x3d,application/vnd.hzn-3d-crossword,3D Crossword Plugin,http://www.iana.org/assignments/media-types/application/vnd.hzn-3d-crossword
+.xaf,x-world/x-vrml,,
+.xap,application/x-silverlight-app,Microsoft Silverlight,http://en.wikipedia.org/wiki/Silverlight
+.xar,application/vnd.xara,CorelXARA,http://www.iana.org/assignments/media-types/application/vnd.xara
+.xbap,application/x-ms-xbap,Microsoft XAML Browser Application,http://en.wikipedia.org/wiki/XAML_Browser_Applications
+.xbd,application/vnd.fujixerox.docuworks.binder,Fujitsu - Xerox DocuWorks Binder,http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks.binder
+.xbm,image/x-xbitmap,X BitMap,http://en.wikipedia.org/wiki/X_BitMap
+.xbm,image/x-xbm,,
+.xbm,image/xbm,,
+.xdf,application/xcap-diff+xml,XML Configuration Access Protocol - XCAP Diff,http://en.wikipedia.org/wiki/XCAP
+.xdm,application/vnd.syncml.dm+xml,SyncML - Device Management,http://www.iana.org/assignments/media-types/application/vnd.syncml.dm+xml
+.xdp,application/vnd.adobe.xdp+xml,Adobe XML Data Package,http://en.wikipedia.org/wiki/XML_Data_Package
+.xdr,video/x-amt-demorun,,
+.xdssc,application/dssc+xml,Data Structure for the Security Suitability of Cryptographic Algorithms,http://www.rfc-editor.org/rfc/rfc5698.txt
+.xdw,application/vnd.fujixerox.docuworks,Fujitsu - Xerox DocuWorks,http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks
+.xenc,application/xenc+xml,XML Encryption Syntax and Processing,http://www.w3.org/TR/xmlenc-core/
+.xer,application/patch-ops-error+xml,XML Patch Framework,http://www.rfc-editor.org/rfc/rfc5261.txt
+.xfdf,application/vnd.adobe.xfdf,Adobe XML Forms Data Format,http://en.wikipedia.org/wiki/XFDF#Interactive_elements
+.xfdl,application/vnd.xfdl,Extensible Forms Description Language,http://www.iana.org/assignments/media-types/application/vnd.xfdl
+.xgz,xgl/drawing,,
+.xhtml,application/xhtml+xml,XHTML - The Extensible HyperText Markup Language,http://www.w3.org/TR/xhtml1/
+.xif,image/vnd.xiff,eXtended Image File Format (XIFF),http://www.iana.org/assignments/media-types/image/vnd.xiff
+.xl,application/excel,,
+.xla,application/excel,,
+.xla,application/vnd.ms-excel,,
+.xla,application/x-excel,,
+.xla,application/x-msexcel,,
+.xlam,application/vnd.ms-excel.addin.macroenabled.12,Microsoft Excel - Add-In File,http://www.iana.org/assignments/media-types/application/vnd.ms-excel.addin.macroEnabled.12
+.xlb,application/excel,,
+.xlb,application/vnd.ms-excel,,
+.xlb,application/x-excel,,
+.xlc,application/excel,,
+.xlc,application/vnd.ms-excel,,
+.xlc,application/x-excel,,
+.xld,application/excel,,
+.xld,application/x-excel,,
+.xlk,application/excel,,
+.xlk,application/x-excel,,
+.xll,application/excel,,
+.xll,application/vnd.ms-excel,,
+.xll,application/x-excel,,
+.xlm,application/excel,,
+.xlm,application/vnd.ms-excel,,
+.xlm,application/x-excel,,
+.xls,application/excel,,
+.xls,application/vnd.ms-excel,Microsoft Excel,http://www.iana.org/assignments/media-types/application/vnd.ms-excel
+.xls,application/x-excel,,
+.xls,application/x-msexcel,,
+.xlsb,application/vnd.ms-excel.sheet.binary.macroenabled.12,Microsoft Excel - Binary Workbook,http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.binary.macroEnabled.12
+.xlsm,application/vnd.ms-excel.sheet.macroenabled.12,Microsoft Excel - Macro-Enabled Workbook,http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.macroEnabled.12
+.xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,Microsoft Office - OOXML - Spreadsheet,http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+.xlt,application/excel,,
+.xlt,application/vnd.ms-excel,,
+.xlt,application/x-excel,,
+.xltm,application/vnd.ms-excel.template.macroenabled.12,Microsoft Excel - Macro-Enabled Template File,http://www.iana.org/assignments/media-types/application/vnd.ms-excel.template.macroEnabled.12
+.xltx,application/vnd.openxmlformats-officedocument.spreadsheetml.template,Microsoft Office - OOXML - Spreadsheet Template,http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.template
+.xlv,application/excel,,
+.xlv,application/x-excel,,
+.xlw,application/excel,,
+.xlw,application/vnd.ms-excel,,
+.xlw,application/x-excel,,
+.xlw,application/x-msexcel,,
+.xm,audio/xm,,
+.xml,application/atom+xml,Atom Syndication Format,http://tools.ietf.org/html/rfc4287
+.xml,application/rss+xml,RSS - Really Simple Syndication,http://en.wikipedia.org/wiki/RSS
+.xml,application/xml,XML - Extensible Markup Language,http://www.w3.org/XML/
+.xml,text/xml,,
+.xmz,xgl/movie,,
+.xo,application/vnd.olpc-sugar,Sugar Linux Application Bundle,http://www.iana.org/assignments/media-types/application/vnd.olpc-sugar
+.xof,x-world/x-vrml,,
+.xop,application/xop+xml,XML-Binary Optimized Packaging,http://www.w3.org/TR/xop10/
+.xpi,application/x-xpinstall,XPInstall - Mozilla,http://en.wikipedia.org/wiki/XPI
+.xpix,application/x-vnd.ls-xpix,,
+.xpm,image/x-xpixmap,X PixMap,http://en.wikipedia.org/wiki/X_Pixmap
+.xpm,image/xpm,,
+.xpr,application/vnd.is-xpr,Express by Infoseek,http://www.iana.org/assignments/media-types/application/vnd.is-xpr
+.xps,application/vnd.ms-xpsdocument,Microsoft XML Paper Specification,http://www.iana.org/assignments/media-types/application/vnd.ms-xpsdocument
+.xpw,application/vnd.intercon.formnet,Intercon FormNet,http://www.iana.org/assignments/media-types/application/vnd.intercon.formnet
+.xslt,application/xslt+xml,XML Transformations,http://www.w3.org/TR/xslt
+.xsm,application/vnd.syncml+xml,SyncML,http://www.iana.org/assignments/media-types/application/vnd.syncml+xml
+.xspf,application/xspf+xml,XSPF - XML Shareable Playlist Format,http://www.xspf.org/quickstart/
+.xsr,video/x-amt-showrun,,
+.xul,application/vnd.mozilla.xul+xml,XUL - XML User Interface Language,http://www.iana.org/assignments/media-types/application/vnd.mozilla.xul+xml
+.xwd,image/x-xwd,,
+.xwd,image/x-xwindowdump,X Window Dump,http://en.wikipedia.org/wiki/Screenshot
+.xyz,chemical/x-pdb,,
+.xyz,chemical/x-xyz,XYZ File Format,http://en.wikipedia.org/wiki/XYZ_file_format
+.yaml,text/yaml,YAML Ain't Markup Language / Yet Another Markup Language,http://www.yaml.org/
+.yang,application/yang,YANG Data Modeling Language,http://en.wikipedia.org/wiki/YANG
+.yin,application/yin+xml,YIN (YANG - XML),http://en.wikipedia.org/wiki/YANG
+.z,application/x-compress,,
+.z,application/x-compressed,,
+.zaz,application/vnd.zzazz.deck+xml,Zzazz Deck,http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck+xml
+.zip,application/x-compressed,,
+.zip,application/x-zip-compressed,,
+.zip,application/zip,Zip Archive,http://en.wikipedia.org/wiki/ZIP_%28file_format%29
+.zip,multipart/x-zip,,
+.zir,application/vnd.zul,Z.U.L. Geometry,http://www.iana.org/assignments/media-types/application/vnd.zul
+.zmm,application/vnd.handheld-entertainment+xml,ZVUE Media Manager,http://www.iana.org/assignments/media-types/application/vnd.HandHeld-Entertainment+xml
+.zoo,application/octet-stream,,
+.zsh,text/x-script.zsh,,
