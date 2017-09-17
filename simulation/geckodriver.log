@@ -1,0 +1,36 @@
+1505655578929	geckodriver	INFO	geckodriver 0.18.0
+1505655578946	geckodriver	INFO	Listening on 127.0.0.1:24311
+1505655579612	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505655581360	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505655582772	Marionette	INFO	Enabled via --marionette
+[GPU 6248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505655588468	Marionette	INFO	Listening on port 24315
+1505655588589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505655588655	Marionette	INFO	Listening on port 24315
+1505655588943	Marionette	DEBUG	loaded listener.js
+1505655589087	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505655592385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505655592387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505655596146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1505655597285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+[GPU 6248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505655626737	Marionette	INFO	Enabled via --marionette
+[GPU 2644] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505655633642	Marionette	INFO	Listening on port 41297
+1505655633684	Marionette	INFO	Listening on port 41297
+1505655634482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505655634680	Marionette	DEBUG	loaded listener.js
+1505655636152	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505655636249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505655636267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505655636268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505655636455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//event.wisesoe.com/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%E5%9C%A8%20event.wisesoe.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82"
+[Child 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6740] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

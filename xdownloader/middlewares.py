@@ -5,7 +5,11 @@
 # See documentation in:
 # http://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
+import os
 from scrapy import signals
+from scrapy.http import HtmlResponse
+from selenium import webdriver
+from selenium.webdriver.common.proxy import Proxy, ProxyType
 
 
 class DownloaderSpiderMiddleware(object):
@@ -54,3 +58,63 @@ class DownloaderSpiderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class PhantomjsRequestMiddleware(object):
+    
+    def __init__(self, driver_path, extra_script_file=None, driver_args={}):
+        '''
+        Python script <---> Ghostdriver <---> PhantomJS
+        GhostDriver is designed to be integral part of PhantomJS itself
+        '''
+        if not os.path.isfile(driver_path):
+            raise Exception('phantomjs/driver path not exists: %s' % driver_path)
+        if extra_script_file and not os.path.isfile(extra_script_file):
+            raise Exception('extra script file not exists: %s' % extra_script_file)
+        
+        self.driver = webdriver.PhantomJS(executable_path=driver_path, **driver_args)
+        if extra_script_file:
+            with open(extra_script_file, 'r', encoding='utf8') as f:
+                self.script = f.read()
+        else:
+            self.script = None
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        driver_path = crawler.settings.get('PHANTOMJS_PATH')
+        extra_script_file = crawler.settings.get('EXTRA_SCRIPT_FILE')
+        return cls(driver_path, extra_script_file)
+
+    def process_request(self, request, spider):
+        url, encoding = request.url, request.encoding
+        self.driver.get(url)
+        if self.script:
+            self.driver.execute_script(self.script)
+        url = self.driver.current_url
+        body = self.driver.page_source.encode(encoding)
+        response = HtmlResponse(url=url, body=body, encoding=encoding)
+        return response # end any process_request methods
+
+
+class ProxyPhantomjsRequestMiddleware(PhantomjsRequestMiddleware):
+
+    def __init__(self, driver_path, extra_script_file, driver_args):
+        super(ProxyPhantomjsRequestMiddleware, self).__init__(driver_path, extra_script_file, driver_args)
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        driver_path = crawler.settings.get('PHANTOMJS_PATH')
+        extra_script_file = crawler.settings.get('EXTRA_SCRIPT_FILE')
+        http_proxy = crawler.settings.get('HTTP_PROXY')
+        if not http_proxy:
+            raise Exception('http proxy setting is empty')
+        driver_args = {
+            'proxy': Proxy({
+                'proxyType': ProxyType.MANUAL,
+                'httpProxy': proxy,
+                'ftpProxy': proxy,
+                'sslProxy': proxy,
+                'noProxy': ''
+            })
+        }
+        return cls(driver_path, extra_script_file, driver_args)
