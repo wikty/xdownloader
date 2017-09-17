@@ -21,7 +21,7 @@ def str2dict(s, item_separator=';', key_separator='=', quote='"'):
 	'''
 	inline; filename="test.png"; something;
 	'''
-	regex = re.compile(r'(?P<key>\w+)(\s*=\s*(?P<quote>[\'"])(?P<value>.+?)(?P=quote))?(;|$)')
+	regex = re.compile(r'(?P<key>\w+)(\s*=\s*(?P<quote>[\'"]?)(?P<value>.+?)(?P=quote))?(;|$)')
 	d = {}
 	s = s.strip()
 	while s:

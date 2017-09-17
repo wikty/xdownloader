@@ -49,8 +49,9 @@ class DownloadFilePipeline(BasePipeline):
 			item[self.status_key] = 0
 			item[self.data_key] = response.body
 			s = response.headers.get('Content-Disposition', b'').decode('utf8')
-			item[self.filename_key] = str2dict(s, ';', '=', '"').get('filename', None)
-			item[self.mimetype_key] = response.headers.get('Content-Type', b'').decode('utf8')
+			d = str2dict(s, ';', '=', '"')
+			item[self.filename_key] = d.get('filename', None) if d else None
+			item[self.mimetype_key] = response.headers.get('Content-Type', b'').decode('utf8').split(';')[0]
 		return item
 
 class SaveFilePipeline(BasePipeline):
@@ -83,8 +84,7 @@ class SaveFilePipeline(BasePipeline):
 			for item in reader:
 				if item[1] not in self.mimetype2extension:
 					self.mimetype2extension[item[1]] = []
-				else:
-					self.mimetype2extension[item[1]].append(item[0])
+				self.mimetype2extension[item[1]].append(item[0])
 
 	def close_spider(self, spider):
 		with open(self.report_csv, 'a+', newline='') as f:
@@ -118,11 +118,12 @@ class SaveFilePipeline(BasePipeline):
 			extensions = self.mimetype2extension.get(mimetype, [])
 			if len(extensions) == 1:
 				ext = extensions[0]
+			elif len(extensions) > 0:
+				ext = ''.join(extensions)
 			elif item[self.filename_key]:
 				ext = os.path.splitext(item[self.filename_key])[1]
 			else:
 				ext = self.default_extension
-
 			
 			if self.naming_method == 1:
 				filename = item[self.download_title_key]

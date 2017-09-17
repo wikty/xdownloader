@@ -80,8 +80,8 @@ class SimpleFileSpider(CrawlSpider):
 		for regex in deny_regex:
 			if regex.search(url):
 				return False
-		if not allow_regex:
-			return True
+		# if not allow_regex:
+		# 	return True
 		for regex in allow_regex:
 			if regex.search(url):
 				return True
@@ -140,11 +140,13 @@ class SimpleFileSpider(CrawlSpider):
 					continue
 				url = response.urljoin(url)
 				if self.is_followable(url):
+					# print(url, 'follow')
 					request = scrapy.Request(url, callback=self.parse_page, dont_filter=False)
 					request.meta['page_url'] = url
 					request.meta['page_title'] = title
 					request.meta['origin'] = origin
 					yield request
 				elif self.is_downloadable(url):
+					# print(url, 'download')
 					count += 1
 					yield self.generate_item(origin, url, count, title, page_url, page_title)
