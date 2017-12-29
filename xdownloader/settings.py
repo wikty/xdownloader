@@ -100,9 +100,11 @@ LOG_LEVEL='ERROR'
 MIMETYPE_EXTENSION='mimetype_extension.txt'
 # start page's url
 MAIN_URL=[
-	('Machine Learning Tom Mitchell', 'http://www.cs.cmu.edu/~tom/10601_fall2012/lectures.shtml'),
+	# ('Machine Learning Tom Mitchell', 'http://www.cs.cmu.edu/~tom/10601_fall2012/lectures.shtml'),
 	# ('Statistical Data Mining Tutorials Andrew Moore', 'https://www.autonlab.org/tutorials/list.html')
-	# ('厦门大学经济学院', 'http://soe.xmu.edu.cn/info/graduate/2017-09-15-17251.html')
+	# ('厦门大学经济学院', 'http://soe.xmu.edu.cn/info/graduate/2017-09-15-17251.html'),
+    ('CAUSALITY by Judea Pearl', 'http://bayes.cs.ucla.edu/BOOK-99/book-toc.html'),
+
 ]
 ALLOWED_DOMAINS=[]
 # the directory to store files
@@ -114,6 +116,7 @@ REPORT_CSV='/downloads/report.csv'
 # 2 使用下载页面的 Title 结合数字编号来命名
 # 3 使用下载链接的 md5(URL) 结合数字编码来命名
 # 4 使用网站为下载资源指定的文件名来命名
+# 5 使用下载链接的 basename 来命名
 NAMING_METHOD = 1
 # follow links
 # FOLLOW_LINKS={

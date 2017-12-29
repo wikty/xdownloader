@@ -60,7 +60,8 @@ class SaveFilePipeline(BasePipeline):
 		1: 'download link title',
 		2: 'download page title',
 		3: 'download link md5 hash',
-		4: 'download filename' # default method
+		4: 'download filename', # default method
+		5: 'download link basename'
 	}
 
 	def __init__(self, storage_dir, report_csv, naming_method, mimetype_extension_file, *args, **kwargs):
@@ -131,6 +132,8 @@ class SaveFilePipeline(BasePipeline):
 				filename = '{} {}'.format(item[self.page_title_key], item[self.download_url_seq_key])
 			elif self.naming_method == 3:
 				filename = hashlib.md5(item[self.download_url_key].encode('utf8')).hexdigest()
+			elif self.naming_method == 5:
+				filename = os.path.basename(item[self.download_url_key])
 			else:
 				filename = item[self.filename_key]
 
